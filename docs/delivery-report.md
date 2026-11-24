@@ -16,7 +16,7 @@ https://github.com/timkok/china-data-atlas-2026
 
 ## 3. Pull Request
 
-见本分支打开的 PR（合并进 `main`）。
+https://github.com/timkok/china-data-atlas-2026/pull/1
 
 ## 4. 实际入库的指标
 
