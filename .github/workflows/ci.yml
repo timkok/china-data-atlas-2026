@@ -1,0 +1,54 @@
+name: ci
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install
+        run: pip install -r requirements.txt
+      - name: Rebuild the published dataset from raw workbooks
+        run: python -m pipeline.run_all --offline
+      - name: Unit checks
+        run: pytest tests -q
+      - name: Quality gate
+        run: python -m pipeline.qa
+        env:
+          CDA_SKIP_LINK_CHECK: ${{ github.event_name == 'pull_request' && '0' || '0' }}
+
+  web:
+    runs-on: ubuntu-latest
+    needs: data
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - name: Data
+        run: |
+          pip install -r requirements.txt
+          python -m pipeline.run_all --offline
+      - name: Install web
+        working-directory: web
+        run: npm ci
+      - name: Playwright
+        working-directory: web
+        run: npx playwright install --with-deps chromium
+      - name: Build
+        working-directory: web
+        run: npm run build
+      - name: Browser tests
+        working-directory: web
+        run: npx playwright test

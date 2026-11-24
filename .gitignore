@@ -1,0 +1,13 @@
+node_modules/
+web/node_modules/
+web/.next/
+web/tsconfig.tsbuildinfo
+web/test-results/
+web/playwright-report/
+web/blob-report/
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+data/processed/*.duckdb
+.DS_Store

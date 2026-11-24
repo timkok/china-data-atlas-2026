@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  --paper: #f3efe6;
+  --card: #fffdf8;
+  --ink: #1c2430;
+  --muted: #5c6670;
+  --line: #e4d9c8;
+  --teal: #0f5c56;
+  --deep: #0c3330;
+  --clay: #b5522a;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background:
+    radial-gradient(1200px 480px at 10% -10%, rgba(15, 92, 86, 0.08), transparent 55%),
+    var(--paper);
+  color: var(--ink);
+}
+
+::selection {
+  background: #d7ebe6;
+}
+
+.page-wrap {
+  @apply mx-auto w-full max-w-page px-4 sm:px-6;
+}
+
+.kicker {
+  @apply text-xs font-semibold uppercase tracking-[0.18em] text-teal;
+}
+
+h1, h2, .serif {
+  font-family: "Iowan Old Style", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+}
+
+a:focus-visible,
+button:focus-visible,
+select:focus-visible,
+input:focus-visible {
+  outline: 2px solid var(--teal);
+  outline-offset: 2px;
+}
+
+.prose-stat p {
+  @apply text-[17px] leading-8 text-ink/90;
+}
+
+table.data {
+  @apply w-full border-collapse text-sm;
+}
+
+table.data th {
+  @apply sticky top-0 bg-card px-3 py-2 text-left font-medium text-muted;
+}
+
+table.data td {
+  @apply border-t border-line px-3 py-2;
+}
+
+table.data tr:hover td {
+  background: #f7f3ea;
+}
