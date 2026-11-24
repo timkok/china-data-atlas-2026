@@ -1,0 +1,296 @@
+# Indicator registry. Pages are generated from this file; adding an indicator
+# does not require a new page template.
+categories:
+  - id: population
+    name_zh: 人口
+    name_en: Population
+    summary_zh: 常住人口、出生、城镇化和年龄结构。
+  - id: economy
+    name_zh: 经济
+    name_en: Economy
+    summary_zh: 地区生产总值、人均产出、居民收入和消费。
+  - id: education
+    name_zh: 教育
+    name_en: Education
+    summary_zh: 普通高等学校数量与在校生规模。
+  - id: health
+    name_zh: 医疗
+    name_en: Health
+    summary_zh: 医师和医疗卫生机构床位的可获得官方口径。
+
+indicators:
+  - id: population
+    slug: population
+    category: population
+    name_zh: 年末常住人口
+    name_en: Year-end resident population
+    definition: 年末常住人口。年鉴注明分地区数据自2005年起为常住人口口径；2000与2010年为人口普查推算数，其余年份多为年度人口抽样调查推算数。全国总人口含现役军人，分地区数据不含，因此各省之和不等于全国。
+    unit: 万人
+    decimals: 2
+    yoy_method: pct
+    yoy_label_zh: 人数同比
+    national_benchmark_line: false
+    additive: false
+    additivity_note: 全国含现役军人，分省不含，禁止用各省加总核对全国。
+    higher_is: contextual
+    breaks:
+      - year: 2005
+        note: 年鉴脚注写明，2005年起分地区数据为常住人口口径。此前年份仍予列示，但与之后年份不可直接同比。
+      - year: 2010
+        note: 2010年为人口普查基础年份，历史年份曾在普查后修订。
+      - year: 2020
+        note: 2020年为第七次人口普查基础年份，2011–2019年等历史数据在后续年鉴中有修订。
+    anomaly:
+      yoy_abs: 0.08
+    related: [urbanization, birth-rate, age-65-share, gdp-per-capita]
+
+  - id: birth-rate
+    slug: birth-rate
+    category: population
+    name_zh: 人口出生率
+    name_en: Crude birth rate
+    definition: 人口出生率，单位为千分比。分省序列取自各年《中国统计年鉴》分地区人口出生率表，通常基于人口变动情况抽样调查，不是户籍出生统计。全国序列取自全国出生率、死亡率、自然增长率表。
+    unit: ‰
+    decimals: 2
+    yoy_method: diff
+    yoy_label_zh: 较上年变动（千分点）
+    national_benchmark_line: true
+    additive: false
+    higher_is: contextual
+    breaks:
+      - year: 2010
+        note: 普查年份的出生率与非普查年份的抽样推算不宜直接连成无断点的曲线。
+      - year: 2020
+        note: 普查年份与年度抽样调查的出生率口径不完全相同。
+    anomaly:
+      diff_abs: 8
+    related: [population, age-65-share]
+
+  - id: urbanization
+    slug: urbanization
+    category: population
+    name_zh: 城镇化率
+    name_en: Urbanization rate
+    definition: 年末城镇人口比重，即城镇常住人口占常住人口的百分比。采用年鉴原列指标，不自行用城镇人口除以总人口重算。
+    unit: "%"
+    decimals: 2
+    yoy_method: diff
+    yoy_label_zh: 较上年变动（百分点）
+    national_benchmark_line: true
+    additive: false
+    higher_is: contextual
+    breaks: []
+    anomaly:
+      diff_abs: 4
+    related: [population, disposable-income]
+    series_start_note: 已获取的分省年鉴表从2005年起连续列示。2000–2004年未在已入库表中出现，页面按缺测处理，不外推。
+
+  - id: age-65-share
+    slug: age-65-share
+    category: population
+    name_zh: 65岁及以上人口占比
+    name_en: Share of population aged 65 and over
+    definition: 65岁及以上人口占该表人口数的百分比。由同一张年鉴表内的「65岁及以上」与「人口数」相除得到，不跨表、不跨口径拼接。抽样调查年份的占比描述的是样本结构；普查年份描述的是普查人口。两者都保留，并在口径说明中区分。
+    unit: "%"
+    decimals: 2
+    yoy_method: diff
+    yoy_label_zh: 较上年变动（百分点）
+    national_benchmark_line: true
+    additive: false
+    higher_is: contextual
+    breaks:
+      - year: 2010
+        note: 普查年份与人口变动抽样调查年份的年龄结构不宜视为一条无断点序列。
+      - year: 2020
+        note: 2020年为普查全口径，邻近年份若为抽样调查则不可直接同比。
+    anomaly:
+      diff_abs: 5
+    processing: 同一来源表内：65岁及以上人口数 / 人口数 × 100。不使用老年抚养比代替占比。
+    related: [population, birth-rate]
+
+  - id: gdp
+    slug: gdp
+    category: economy
+    name_zh: 地区生产总值
+    name_en: Gross regional product
+    definition: 地区生产总值（GRP/GDP），现价，单位亿元。各省之和不等于全国生产总值，本站不做加总核对。历史水平取各年年鉴中较新的版本，不把不变价指数自行换算成可比价水平。
+    unit: 亿元
+    decimals: 2
+    yoy_method: pct
+    yoy_label_zh: 现价水平同比（不是官方实际增速）
+    national_benchmark_line: false
+    additive: false
+    additivity_note: 国家统计局明确，各省地区生产总值之和与国内生产总值存在口径差异，禁止互相核对。
+    higher_is: contextual
+    breaks:
+      - year: 2004
+        note: 第一次经济普查后GDP历史有过修订。
+      - year: 2008
+        note: 第二次经济普查后GDP历史有过修订。
+      - year: 2013
+        note: 第三次经济普查后GDP历史有过修订。
+      - year: 2018
+        note: 第四次经济普查后GDP历史有过修订。
+      - year: 2023
+        note: 第五次经济普查后GDP历史有过修订。不同年鉴版本衔接处若版本不同，同比会被抑制。
+    anomaly:
+      yoy_abs: 0.45
+    related: [gdp-per-capita, gdp-index, disposable-income]
+
+  - id: gdp-per-capita
+    slug: gdp-per-capita
+    category: economy
+    name_zh: 人均地区生产总值
+    name_en: GRP per capita
+    definition: 人均地区生产总值，现价，单位元。只采用年鉴直接公布的数字。不用地区生产总值除以年末人口自行计算，因为官方人均数使用的是平均人口而不是年末人口。
+    unit: 元
+    decimals: 0
+    yoy_method: pct
+    yoy_label_zh: 现价水平同比
+    national_benchmark_line: true
+    additive: false
+    higher_is: up
+    breaks:
+      - year: 2018
+        note: 经济普查修订会改变历史人均水平。版本切换处不计算同比。
+    anomaly:
+      yoy_abs: 0.4
+    related: [gdp, disposable-income, population]
+
+  - id: gdp-index
+    slug: gdp-index
+    category: economy
+    name_zh: 地区生产总值指数
+    name_en: GRP volume index
+    definition: 地区生产总值指数，以上年价格为100的实际物量指数。这是年鉴公布的实际增速口径，与本站用现价水平计算的同比不是同一个数。
+    unit: 上年=100
+    decimals: 1
+    yoy_method: none
+    yoy_label_zh: 指数本身即以上年为100
+    national_benchmark_line: true
+    additive: false
+    higher_is: up
+    breaks: []
+    anomaly:
+      jump_from: 100
+      jump_abs: 25
+    related: [gdp, gdp-per-capita]
+
+  - id: disposable-income
+    slug: disposable-income
+    category: economy
+    name_zh: 居民人均可支配收入
+    name_en: Per capita disposable income
+    definition: 全体居民人均可支配收入，单位元。对应2013年住户收支与生活状况调查改革之后的一体化口径。不与改革前的城镇居民人均可支配收入或农村居民人均纯收入拼接。
+    unit: 元
+    decimals: 0
+    yoy_method: pct
+    yoy_label_zh: 名义同比
+    national_benchmark_line: true
+    additive: false
+    higher_is: up
+    breaks:
+      - year: 2013
+        note: 2013年住户调查改革。本序列不包含改革前的城镇或农村分项收入。
+    anomaly:
+      yoy_abs: 0.25
+    series_start_note: 已入库的分省一体化口径自2014年起。2013年及更早不使用旧口径填补。
+    related: [gdp-per-capita, retail-sales, urbanization]
+
+  - id: retail-sales
+    slug: retail-sales
+    category: economy
+    name_zh: 社会消费品零售总额
+    name_en: Total retail sales of consumer goods
+    definition: 社会消费品零售总额，单位亿元。取年鉴分地区表中的绝对额列，不取「比上年增长」列。
+    unit: 亿元
+    decimals: 1
+    yoy_method: pct
+    yoy_label_zh: 名义同比
+    national_benchmark_line: false
+    additive: false
+    additivity_note: 社会消费品零售总额的全国与分省汇总关系不稳定，不作为加总校验。
+    higher_is: contextual
+    breaks: []
+    anomaly:
+      yoy_abs: 0.35
+    related: [disposable-income, gdp]
+
+  - id: he-students
+    slug: he-students
+    category: education
+    name_zh: 普通高等学校在校生数
+    name_en: Regular higher-education enrolment
+    definition: 普通本专科在校学生数，单位人。只收录标题明确为普通本专科、且未与职业高等教育合并的分省表。2022年起年鉴改为「普通、职业本专科」合并表，口径已变，故不并入本指标。
+    unit: 人
+    decimals: 0
+    yoy_method: pct
+    yoy_label_zh: 同比
+    national_benchmark_line: false
+    additive: true
+    higher_is: contextual
+    breaks:
+      - year: 2021
+        note: 后续年鉴将普通与职业本专科合并发布。2021年及以后的合并数未入库。
+    anomaly:
+      yoy_abs: 0.3
+    related: [he-schools, population]
+
+  - id: he-schools
+    slug: he-schools
+    category: education
+    name_zh: 普通高等学校数
+    name_en: Regular higher-education institutions
+    definition: 普通高等学校（机构）数，单位所。不含标题已改为「普通、职业高等学校」的合并口径。
+    unit: 所
+    decimals: 0
+    yoy_method: diff
+    yoy_label_zh: 较上年变动（所）
+    national_benchmark_line: false
+    additive: true
+    higher_is: contextual
+    breaks:
+      - year: 2021
+        note: 后续年鉴将普通与职业高等学校合并发布，合并数未入库。
+    anomaly:
+      diff_abs: 30
+    related: [he-students]
+
+  - id: physicians-per-1000
+    slug: physicians-per-1000
+    category: health
+    name_zh: 每千人口执业（助理）医师数
+    name_en: Licensed physicians per 1,000 people
+    definition: 每千人口执业（助理）医师数，取《中国统计年鉴》「每千人口卫生技术人员」表中「执业（助理）医师—合计」列。该表为全国城乡合计的时间序列，年鉴未在同一表公布31个省的并列序列。分省因此缺测，并在页面明示原因，不用其他指标替代。
+    unit: 人
+    decimals: 2
+    yoy_method: diff
+    yoy_label_zh: 较上年变动（人/千人）
+    national_benchmark_line: true
+    additive: false
+    higher_is: up
+    geography: national-only
+    geography_note: 分省序列未出现在已成功获取的《中国统计年鉴》机器可读表中。data.stats.gov.cn 分省库在本构建环境被 WAF 拒绝（403 UrlACL），没有改用未核对的二手分省数。
+    breaks: []
+    anomaly:
+      diff_abs: 1.5
+    related: [beds-per-1000, population]
+
+  - id: beds-per-1000
+    slug: beds-per-1000
+    category: health
+    name_zh: 每千人口医疗卫生机构床位数
+    name_en: Medical-institution beds per 1,000 people
+    definition: 每千人口医疗卫生机构床位数（张/千人）。全国序列采用年鉴直接公布的「每千人口」列，不自行用床位数除以人口。分省仅在年鉴单独公布「各地区每千人口医疗卫生机构床位」的年份入库。医院床位利用率表没有床位存量，不能代替本指标。
+    unit: 张
+    decimals: 2
+    yoy_method: diff
+    yoy_label_zh: 较上年变动（张/千人）
+    national_benchmark_line: true
+    additive: false
+    higher_is: up
+    breaks: []
+    anomaly:
+      diff_abs: 1.5
+    series_start_note: 分省官方「每千人口」表在已获取的年鉴中只覆盖少数年份；缺年份保持空白。
+    related: [physicians-per-1000, population]

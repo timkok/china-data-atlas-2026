@@ -1,0 +1,2608 @@
+{
+  "fetched": [
+    {
+      "yearbook_year": 2005,
+      "kind": "national_gdp",
+      "title": "3-1国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2005/html/C0301C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2005/html/C0301C.HTM",
+      "path": "data/raw/yearbook/2005__national_gdp__3-1___C0301C.xls"
+    },
+    {
+      "yearbook_year": 2005,
+      "kind": "gdp",
+      "title": "3-10地区生产总值和指数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2005/html/C0310C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2005/html/C0310C.HTM",
+      "path": "data/raw/yearbook/2005__gdp__3-10___C0310C.xls"
+    },
+    {
+      "yearbook_year": 2005,
+      "kind": "gdp",
+      "title": "3-11地区生产总值(2004年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2005/html/C0311C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2005/html/C0311C.HTM",
+      "path": "data/raw/yearbook/2005__gdp__3-11_2004___C0311C.xls"
+    },
+    {
+      "yearbook_year": 2005,
+      "kind": "birth_national",
+      "title": "4-2人口出生率、死亡率和自然增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2005/html/D0402C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2005/html/D0402C.HTM",
+      "path": "data/raw/yearbook/2005__birth_national__4-2___D0402C.xls"
+    },
+    {
+      "yearbook_year": 2005,
+      "kind": "birth_province",
+      "title": "4-3各地区总人口和出生率、死亡率、自然增长率(2004年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2005/html/D0403C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2005/html/D0403C.HTM",
+      "path": "data/raw/yearbook/2005__birth_province__4-3_2004___D0403C.xls"
+    },
+    {
+      "yearbook_year": 2005,
+      "kind": "age",
+      "title": "4-9各地区人口年龄构成和抚养比(2004年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2005/html/D0409C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2005/html/D0409C.HTM",
+      "path": "data/raw/yearbook/2005__age__4-9_2004___D0409C.xls"
+    },
+    {
+      "yearbook_year": 2005,
+      "kind": "retail",
+      "title": "17-2社会消费品零售总额",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2005/html/Q1702C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2005/html/Q1702C.HTM",
+      "path": "data/raw/yearbook/2005__retail__17-2___Q1702C.xls"
+    },
+    {
+      "yearbook_year": 2005,
+      "kind": "national_gdp",
+      "title": "附录2-3国内生产总值及其增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2005/html/Z2703C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2005/html/Z2703C.HTM",
+      "path": "data/raw/yearbook/2005__national_gdp___2-3___Z2703C.xls"
+    },
+    {
+      "yearbook_year": 2006,
+      "kind": "national_gdp",
+      "title": "3-1国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2006/html/C0301C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2006/html/C0301C.HTM",
+      "path": "data/raw/yearbook/2006__national_gdp__3-1___C0301C.xls"
+    },
+    {
+      "yearbook_year": 2006,
+      "kind": "national_gdp",
+      "title": "3-7三次产业对国内生产总值增长的拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2006/html/C0307C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2006/html/C0307C.HTM",
+      "path": "data/raw/yearbook/2006__national_gdp__3-7___C0307C.xls"
+    },
+    {
+      "yearbook_year": 2006,
+      "kind": "gdp",
+      "title": "3-8地区生产总值和指数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2006/html/C0308C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2006/html/C0308C.HTM",
+      "path": "data/raw/yearbook/2006__gdp__3-8___C0308C.xls"
+    },
+    {
+      "yearbook_year": 2006,
+      "kind": "gdp",
+      "title": "3-9地区生产总值(2005年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2006/html/C0309C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2006/html/C0309C.HTM",
+      "path": "data/raw/yearbook/2006__gdp__3-9_2005___C0309C.xls"
+    },
+    {
+      "yearbook_year": 2006,
+      "kind": "national_gdp",
+      "title": "3-13三大需求对国内生产总值增长的贡献率和拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2006/html/C0313C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2006/html/C0313C.HTM",
+      "path": "data/raw/yearbook/2006__national_gdp__3-13___C0313C.xls"
+    },
+    {
+      "yearbook_year": 2006,
+      "kind": "birth_national",
+      "title": "4-2人口出生率、死亡率和自然增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2006/html/D0402C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2006/html/D0402C.HTM",
+      "path": "data/raw/yearbook/2006__birth_national__4-2___D0402C.xls"
+    },
+    {
+      "yearbook_year": 2006,
+      "kind": "birth_province",
+      "title": "4-3各地区人口数和出生率、死亡率、自然增长率(2005年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2006/html/D0403C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2006/html/D0403C.HTM",
+      "path": "data/raw/yearbook/2006__birth_province__4-3_2005___D0403C.xls"
+    },
+    {
+      "yearbook_year": 2006,
+      "kind": "age",
+      "title": "4-10各地区人口年龄构成和抚养比(2005年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2006/html/D0410C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2006/html/D0410C.HTM",
+      "path": "data/raw/yearbook/2006__age__4-10_2005___D0410C.xls"
+    },
+    {
+      "yearbook_year": 2006,
+      "kind": "retail",
+      "title": "17-3社会消费品零售总额",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2006/html/Q1703C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2006/html/Q1703C.HTM",
+      "path": "data/raw/yearbook/2006__retail__17-3___Q1703C.xls"
+    },
+    {
+      "yearbook_year": 2007,
+      "kind": "national_gdp",
+      "title": "3-1国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2007/html/C0301C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2007/html/C0301C.HTM",
+      "path": "data/raw/yearbook/2007__national_gdp__3-1___C0301C.xls"
+    },
+    {
+      "yearbook_year": 2007,
+      "kind": "national_gdp",
+      "title": "3-11三次产业对国内生产总值增长的拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2007/html/C0311C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2007/html/C0311C.HTM",
+      "path": "data/raw/yearbook/2007__national_gdp__3-11___C0311C.xls"
+    },
+    {
+      "yearbook_year": 2007,
+      "kind": "gdp",
+      "title": "3-12地区生产总值和指数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2007/html/C0312C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2007/html/C0312C.HTM",
+      "path": "data/raw/yearbook/2007__gdp__3-12___C0312C.xls"
+    },
+    {
+      "yearbook_year": 2007,
+      "kind": "gdp",
+      "title": "3-13地区生产总值(2006年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2007/html/C0313C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2007/html/C0313C.HTM",
+      "path": "data/raw/yearbook/2007__gdp__3-13_2006___C0313C.xls"
+    },
+    {
+      "yearbook_year": 2007,
+      "kind": "national_gdp",
+      "title": "3-18三大需求对国内生产总值增长的贡献率和拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2007/html/C0318C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2007/html/C0318C.HTM",
+      "path": "data/raw/yearbook/2007__national_gdp__3-18___C0318C.xls"
+    },
+    {
+      "yearbook_year": 2007,
+      "kind": "birth_national",
+      "title": "4-2人口出生率、死亡率和自然增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2007/html/D0402C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2007/html/D0402C.HTM",
+      "path": "data/raw/yearbook/2007__birth_national__4-2___D0402C.xls"
+    },
+    {
+      "yearbook_year": 2007,
+      "kind": "birth_province",
+      "title": "4-3各地区人口数和出生率、死亡率、自然增长率(2006年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2007/html/D0403C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2007/html/D0403C.HTM",
+      "path": "data/raw/yearbook/2007__birth_province__4-3_2006___D0403C.xls"
+    },
+    {
+      "yearbook_year": 2007,
+      "kind": "age",
+      "title": "4-10各地区人口年龄构成和抚养比(2006年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2007/html/D0410C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2007/html/D0410C.HTM",
+      "path": "data/raw/yearbook/2007__age__4-10_2006___D0410C.xls"
+    },
+    {
+      "yearbook_year": 2007,
+      "kind": "retail",
+      "title": "17-3社会消费品零售总额",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2007/html/Q1703C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2007/html/Q1703C.HTM",
+      "path": "data/raw/yearbook/2007__retail__17-3___Q1703C.xls"
+    },
+    {
+      "yearbook_year": 2008,
+      "kind": "national_gdp",
+      "title": "2-1国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2008/html/C0201C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2008/html/C0201C.HTM",
+      "path": "data/raw/yearbook/2008__national_gdp__2-1___C0201C.xls"
+    },
+    {
+      "yearbook_year": 2008,
+      "kind": "national_gdp",
+      "title": "2-13三次产业对国内生产总值增长的拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2008/html/C0213C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2008/html/C0213C.HTM",
+      "path": "data/raw/yearbook/2008__national_gdp__2-13___C0213C.xls"
+    },
+    {
+      "yearbook_year": 2008,
+      "kind": "gdp",
+      "title": "2-14地区生产总值和指数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2008/html/C0214C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2008/html/C0214C.HTM",
+      "path": "data/raw/yearbook/2008__gdp__2-14___C0214C.xls"
+    },
+    {
+      "yearbook_year": 2008,
+      "kind": "gdp",
+      "title": "2-15地区生产总值(2007年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2008/html/C0215C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2008/html/C0215C.HTM",
+      "path": "data/raw/yearbook/2008__gdp__2-15_2007___C0215C.xls"
+    },
+    {
+      "yearbook_year": 2008,
+      "kind": "national_gdp",
+      "title": "2-20三大需求对国内生产总值增长的贡献率和拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2008/html/C0220C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2008/html/C0220C.HTM",
+      "path": "data/raw/yearbook/2008__national_gdp__2-20___C0220C.xls"
+    },
+    {
+      "yearbook_year": 2008,
+      "kind": "birth_national",
+      "title": "3-2人口出生率、死亡率和自然增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2008/html/D0302C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2008/html/D0302C.HTM",
+      "path": "data/raw/yearbook/2008__birth_national__3-2___D0302C.xls"
+    },
+    {
+      "yearbook_year": 2008,
+      "kind": "birth_province",
+      "title": "3-3各地区人口数和出生率、死亡率、自然增长率(2007年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2008/html/D0303C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2008/html/D0303C.HTM",
+      "path": "data/raw/yearbook/2008__birth_province__3-3_2007___D0303C.xls"
+    },
+    {
+      "yearbook_year": 2008,
+      "kind": "age",
+      "title": "3-10各地区人口年龄构成和抚养比(2007年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2008/html/D0310C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2008/html/D0310C.HTM",
+      "path": "data/raw/yearbook/2008__age__3-10_2007___D0310C.xls"
+    },
+    {
+      "yearbook_year": 2008,
+      "kind": "retail",
+      "title": "16-3社会消费品零售总额",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2008/html/Q1603C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2008/html/Q1603C.HTM",
+      "path": "data/raw/yearbook/2008__retail__16-3___Q1603C.xls"
+    },
+    {
+      "yearbook_year": 2008,
+      "kind": "national_gdp",
+      "title": "附录2-3国内生产总值及其增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2008/html/Z2603C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2008/html/Z2603C.HTM",
+      "path": "data/raw/yearbook/2008__national_gdp___2-3___Z2603C.xls"
+    },
+    {
+      "yearbook_year": 2009,
+      "kind": "national_gdp",
+      "title": "2-1国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2009/html/C0201C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2009/html/C0201C.HTM",
+      "path": "data/raw/yearbook/2009__national_gdp__2-1___C0201C.xls"
+    },
+    {
+      "yearbook_year": 2009,
+      "kind": "national_gdp",
+      "title": "2-13三次产业对国内生产总值增长的拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2009/html/C0213C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2009/html/C0213C.HTM",
+      "path": "data/raw/yearbook/2009__national_gdp__2-13___C0213C.xls"
+    },
+    {
+      "yearbook_year": 2009,
+      "kind": "gdp",
+      "title": "2-14地区生产总值和指数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2009/html/C0214C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2009/html/C0214C.HTM",
+      "path": "data/raw/yearbook/2009__gdp__2-14___C0214C.xls"
+    },
+    {
+      "yearbook_year": 2009,
+      "kind": "national_gdp",
+      "title": "2-20三大需求对国内生产总值增长的贡献率和拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2009/html/C0220C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2009/html/C0220C.HTM",
+      "path": "data/raw/yearbook/2009__national_gdp__2-20___C0220C.xls"
+    },
+    {
+      "yearbook_year": 2009,
+      "kind": "birth_national",
+      "title": "3-2人口出生率、死亡率和自然增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2009/html/D0302C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2009/html/D0302C.HTM",
+      "path": "data/raw/yearbook/2009__birth_national__3-2___D0302C.xls"
+    },
+    {
+      "yearbook_year": 2009,
+      "kind": "birth_province",
+      "title": "3-4各地区人口的城乡构成和出生率、死亡率、自然增长率(2008年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2009/html/D0304C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2009/html/D0304C.HTM",
+      "path": "data/raw/yearbook/2009__birth_province__3-4_2008___D0304C.xls"
+    },
+    {
+      "yearbook_year": 2009,
+      "kind": "age",
+      "title": "3-10各地区人口年龄构成和抚养比(2008年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2009/html/D0310C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2009/html/D0310C.HTM",
+      "path": "data/raw/yearbook/2009__age__3-10_2008___D0310C.xls"
+    },
+    {
+      "yearbook_year": 2009,
+      "kind": "retail",
+      "title": "16-3社会消费品零售总额",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2009/html/Q1603C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2009/html/Q1603C.HTM",
+      "path": "data/raw/yearbook/2009__retail__16-3___Q1603C.xls"
+    },
+    {
+      "yearbook_year": 2009,
+      "kind": "physicians",
+      "title": "21-33每千人口卫生技术人员数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2009/html/V2133C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2009/html/V2133C.HTM",
+      "path": "data/raw/yearbook/2009__physicians__21-33___V2133C.xls"
+    },
+    {
+      "yearbook_year": 2009,
+      "kind": "national_gdp",
+      "title": "附录2-3国内生产总值及其增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2009/html/Z2603C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2009/html/Z2603C.HTM",
+      "path": "data/raw/yearbook/2009__national_gdp___2-3___Z2603C.xls"
+    },
+    {
+      "yearbook_year": 2010,
+      "kind": "national_gdp",
+      "title": "2-1国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2010/html/C0201C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2010/html/C0201C.HTM",
+      "path": "data/raw/yearbook/2010__national_gdp__2-1___C0201C.xls"
+    },
+    {
+      "yearbook_year": 2010,
+      "kind": "national_gdp",
+      "title": "2-13三次产业对国内生产总值增长的拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2010/html/C0213C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2010/html/C0213C.HTM",
+      "path": "data/raw/yearbook/2010__national_gdp__2-13___C0213C.xls"
+    },
+    {
+      "yearbook_year": 2010,
+      "kind": "gdp",
+      "title": "2-14地区生产总值和指数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2010/html/C0214C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2010/html/C0214C.HTM",
+      "path": "data/raw/yearbook/2010__gdp__2-14___C0214C.xls"
+    },
+    {
+      "yearbook_year": 2010,
+      "kind": "national_gdp",
+      "title": "2-20三大需求对国内生产总值增长的贡献率和拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2010/html/C0220C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2010/html/C0220C.HTM",
+      "path": "data/raw/yearbook/2010__national_gdp__2-20___C0220C.xls"
+    },
+    {
+      "yearbook_year": 2010,
+      "kind": "birth_national",
+      "title": "3-2人口出生率、死亡率和自然增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2010/html/D0302C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2010/html/D0302C.HTM",
+      "path": "data/raw/yearbook/2010__birth_national__3-2___D0302C.xls"
+    },
+    {
+      "yearbook_year": 2010,
+      "kind": "birth_province",
+      "title": "3-4各地区人口的城乡构成和出生率、死亡率、自然增长率(2009年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2010/html/D0304C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2010/html/D0304C.HTM",
+      "path": "data/raw/yearbook/2010__birth_province__3-4_2009___D0304C.xls"
+    },
+    {
+      "yearbook_year": 2010,
+      "kind": "age",
+      "title": "3-10各地区人口年龄构成和抚养比(2009年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2010/html/D0310C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2010/html/D0310C.HTM",
+      "path": "data/raw/yearbook/2010__age__3-10_2009___D0310C.xls"
+    },
+    {
+      "yearbook_year": 2010,
+      "kind": "retail",
+      "title": "17-22社会消费品零售总额",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2010/html/Q1722C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2010/html/Q1722C.HTM",
+      "path": "data/raw/yearbook/2010__retail__17-22___Q1722C.xls"
+    },
+    {
+      "yearbook_year": 2010,
+      "kind": "physicians",
+      "title": "21-33每千人口卫生技术人员数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2010/html/V2133C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2010/html/V2133C.HTM",
+      "path": "data/raw/yearbook/2010__physicians__21-33___V2133C.xls"
+    },
+    {
+      "yearbook_year": 2010,
+      "kind": "national_gdp",
+      "title": "附录2-3国内生产总值及其增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2010/html/Z2603C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2010/html/Z2603C.HTM",
+      "path": "data/raw/yearbook/2010__national_gdp___2-3___Z2603C.xls"
+    },
+    {
+      "yearbook_year": 2011,
+      "kind": "national_gdp",
+      "title": "2-1国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2011/html/C0201C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2011/html/C0201C.HTM",
+      "path": "data/raw/yearbook/2011__national_gdp__2-1___C0201C.xls"
+    },
+    {
+      "yearbook_year": 2011,
+      "kind": "national_gdp",
+      "title": "2-13三次产业对国内生产总值增长的拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2011/html/C0213C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2011/html/C0213C.HTM",
+      "path": "data/raw/yearbook/2011__national_gdp__2-13___C0213C.xls"
+    },
+    {
+      "yearbook_year": 2011,
+      "kind": "gdp",
+      "title": "2-14地区生产总值和指数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2011/html/C0214C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2011/html/C0214C.HTM",
+      "path": "data/raw/yearbook/2011__gdp__2-14___C0214C.xls"
+    },
+    {
+      "yearbook_year": 2011,
+      "kind": "national_gdp",
+      "title": "2-20三大需求对国内生产总值增长的贡献率和拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2011/html/C0220C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2011/html/C0220C.HTM",
+      "path": "data/raw/yearbook/2011__national_gdp__2-20___C0220C.xls"
+    },
+    {
+      "yearbook_year": 2011,
+      "kind": "birth_national",
+      "title": "3-2人口出生率、死亡率和自然增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2011/html/D0302C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2011/html/D0302C.HTM",
+      "path": "data/raw/yearbook/2011__birth_national__3-2___D0302C.xls"
+    },
+    {
+      "yearbook_year": 2011,
+      "kind": "birth_province",
+      "title": "3-4各地区总人口和出生率、死亡率、自然增长率(2010年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2011/html/D0304C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2011/html/D0304C.HTM",
+      "path": "data/raw/yearbook/2011__birth_province__3-4_2010___D0304C.xls"
+    },
+    {
+      "yearbook_year": 2011,
+      "kind": "population",
+      "title": "3-13各地区年末人口数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2011/html/D0313C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2011/html/D0313C.HTM",
+      "path": "data/raw/yearbook/2011__population__3-13___D0313C.xls"
+    },
+    {
+      "yearbook_year": 2011,
+      "kind": "retail",
+      "title": "17-22社会消费品零售总额",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2011/html/Q1722C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2011/html/Q1722C.HTM",
+      "path": "data/raw/yearbook/2011__retail__17-22___Q1722C.xls"
+    },
+    {
+      "yearbook_year": 2011,
+      "kind": "higher_ed",
+      "title": "20-27各地区高等学校普通本、专科学校和学生情况(2010年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2011/html/U2027C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2011/html/U2027C.HTM",
+      "path": "data/raw/yearbook/2011__higher_ed__20-27_2010___U2027C.xls"
+    },
+    {
+      "yearbook_year": 2011,
+      "kind": "physicians",
+      "title": "21-3每千人口卫生技术人员",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2011/html/V2103C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2011/html/V2103C.HTM",
+      "path": "data/raw/yearbook/2011__physicians__21-3___V2103C.xls"
+    },
+    {
+      "yearbook_year": 2011,
+      "kind": "beds_province",
+      "title": "21-7各地区每千人口医疗卫生机构床位(2010年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2011/html/V2107C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2011/html/V2107C.HTM",
+      "path": "data/raw/yearbook/2011__beds_province__21-7_2010___V2107C.xls"
+    },
+    {
+      "yearbook_year": 2011,
+      "kind": "national_gdp",
+      "title": "附录2-4国内生产总值及其增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2011/html/Z2704C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2011/html/Z2704C.HTM",
+      "path": "data/raw/yearbook/2011__national_gdp___2-4___Z2704C.xls"
+    },
+    {
+      "yearbook_year": 2012,
+      "kind": "national_gdp",
+      "title": "2-13三次产业对国内生产总值增长的拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2012/html/C0213C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2012/html/C0213C.HTM",
+      "path": "data/raw/yearbook/2012__national_gdp__2-13___C0213C.xls"
+    },
+    {
+      "yearbook_year": 2012,
+      "kind": "gdp",
+      "title": "2-14地区生产总值和指数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2012/html/C0214C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2012/html/C0214C.HTM",
+      "path": "data/raw/yearbook/2012__gdp__2-14___C0214C.xls"
+    },
+    {
+      "yearbook_year": 2012,
+      "kind": "national_gdp",
+      "title": "2-20三大需求对国内生产总值增长的贡献率和拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2012/html/C0220C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2012/html/C0220C.HTM",
+      "path": "data/raw/yearbook/2012__national_gdp__2-20___C0220C.xls"
+    },
+    {
+      "yearbook_year": 2012,
+      "kind": "birth_national",
+      "title": "3-2人口出生率、死亡率和自然增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2012/html/D0302C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2012/html/D0302C.HTM",
+      "path": "data/raw/yearbook/2012__birth_national__3-2___D0302C.xls"
+    },
+    {
+      "yearbook_year": 2012,
+      "kind": "population",
+      "title": "3-4各地区年末人口数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2012/html/D0304C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2012/html/D0304C.HTM",
+      "path": "data/raw/yearbook/2012__population__3-4___D0304C.xls"
+    },
+    {
+      "yearbook_year": 2012,
+      "kind": "birth_province",
+      "title": "3-5各地区人口的城乡构成和出生率、死亡率、自然增长率(2011年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2012/html/D0305C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2012/html/D0305C.HTM",
+      "path": "data/raw/yearbook/2012__birth_province__3-5_2011___D0305C.xls"
+    },
+    {
+      "yearbook_year": 2012,
+      "kind": "age",
+      "title": "3-11各地区人口年龄构成和抚养比(2011年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2012/html/D0311C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2012/html/D0311C.HTM",
+      "path": "data/raw/yearbook/2012__age__3-11_2011___D0311C.xls"
+    },
+    {
+      "yearbook_year": 2012,
+      "kind": "retail",
+      "title": "17-22社会消费品零售总额",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2012/html/Q1722C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2012/html/Q1722C.HTM",
+      "path": "data/raw/yearbook/2012__retail__17-22___Q1722C.xls"
+    },
+    {
+      "yearbook_year": 2012,
+      "kind": "higher_ed",
+      "title": "20-29各地区高等学校普通本、专科学校和学生情况(2011年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2012/html/U2029C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2012/html/U2029C.HTM",
+      "path": "data/raw/yearbook/2012__higher_ed__20-29_2011___U2029C.xls"
+    },
+    {
+      "yearbook_year": 2012,
+      "kind": "physicians",
+      "title": "21-3每千人口卫生技术人员",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2012/html/V2103C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2012/html/V2103C.HTM",
+      "path": "data/raw/yearbook/2012__physicians__21-3___V2103C.xls"
+    },
+    {
+      "yearbook_year": 2012,
+      "kind": "beds_national",
+      "title": "21-7每千人口医疗卫生机构床位数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2012/html/V2107C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2012/html/V2107C.HTM",
+      "path": "data/raw/yearbook/2012__beds_national__21-7___V2107C.xls"
+    },
+    {
+      "yearbook_year": 2012,
+      "kind": "national_gdp",
+      "title": "附录2-4国内生产总值及其增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2012/html/Z2604C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2012/html/Z2604C.HTM",
+      "path": "data/raw/yearbook/2012__national_gdp___2-4___Z2604C.xls"
+    },
+    {
+      "yearbook_year": 2013,
+      "kind": "national_gdp",
+      "title": "2-13三次产业对国内生产总值增长的拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0213C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0213C.htm",
+      "path": "data/raw/yearbook/2013__national_gdp__2-13___Z0213C.xls"
+    },
+    {
+      "yearbook_year": 2013,
+      "kind": "gdp",
+      "title": "2-14地区生产总值和指数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0214C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0214C.htm",
+      "path": "data/raw/yearbook/2013__gdp__2-14___Z0214C.xls"
+    },
+    {
+      "yearbook_year": 2013,
+      "kind": "pcgdp",
+      "title": "2-15人均地区生产总值和指数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0215C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0215C.htm",
+      "path": "data/raw/yearbook/2013__pcgdp__2-15___Z0215C.xls"
+    },
+    {
+      "yearbook_year": 2013,
+      "kind": "national_gdp",
+      "title": "2-24三大需求对国内生产总值增长的贡献率和拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0224C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0224C.htm",
+      "path": "data/raw/yearbook/2013__national_gdp__2-24___Z0224C.xls"
+    },
+    {
+      "yearbook_year": 2013,
+      "kind": "birth_national",
+      "title": "3-2人口出生率、死亡率和自然增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0302C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0302C.htm",
+      "path": "data/raw/yearbook/2013__birth_national__3-2___Z0302C.xls"
+    },
+    {
+      "yearbook_year": 2013,
+      "kind": "population",
+      "title": "3-5分地区年末人口数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0305C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0305C.htm",
+      "path": "data/raw/yearbook/2013__population__3-5___Z0305C.xls"
+    },
+    {
+      "yearbook_year": 2013,
+      "kind": "urban",
+      "title": "3-6分地区年末城镇人口比重",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0306C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0306C.htm",
+      "path": "data/raw/yearbook/2013__urban__3-6___Z0306C.xls"
+    },
+    {
+      "yearbook_year": 2013,
+      "kind": "birth_province",
+      "title": "3-7分地区人口的城乡构成和出生率、死亡率、自然增长率(2012年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0307C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0307C.htm",
+      "path": "data/raw/yearbook/2013__birth_province__3-7_2012___Z0307C.xls"
+    },
+    {
+      "yearbook_year": 2013,
+      "kind": "age",
+      "title": "3-13分地区人口年龄构成和抚养比(2012年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0313C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0313C.htm",
+      "path": "data/raw/yearbook/2013__age__3-13_2012___Z0313C.xls"
+    },
+    {
+      "yearbook_year": 2013,
+      "kind": "retail",
+      "title": "17-12社会消费品零售总额",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z1712C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z1712C.htm",
+      "path": "data/raw/yearbook/2013__retail__17-12___Z1712C.xls"
+    },
+    {
+      "yearbook_year": 2013,
+      "kind": "higher_ed",
+      "title": "20-30分地区普通高等学校情况(2012年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z2030C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z2030C.htm",
+      "path": "data/raw/yearbook/2013__higher_ed__20-30_2012___Z2030C.xls"
+    },
+    {
+      "yearbook_year": 2013,
+      "kind": "physicians",
+      "title": "21-3每千人口卫生技术人员",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z2103C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z2103C.htm",
+      "path": "data/raw/yearbook/2013__physicians__21-3___Z2103C.xls"
+    },
+    {
+      "yearbook_year": 2013,
+      "kind": "national_gdp",
+      "title": "附录2-4国内生产总值及其增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z2704C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z2704C.htm",
+      "path": "data/raw/yearbook/2013__national_gdp___2-4___Z2704C.xls"
+    },
+    {
+      "yearbook_year": 2014,
+      "kind": "birth_national",
+      "title": "2-2人口出生率、死亡率和自然增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0202C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0202C.HTM",
+      "path": "data/raw/yearbook/2014__birth_national__2-2___Z0202C.xls"
+    },
+    {
+      "yearbook_year": 2014,
+      "kind": "population",
+      "title": "2-5分地区年末人口数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0205C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0205C.HTM",
+      "path": "data/raw/yearbook/2014__population__2-5___Z0205C.xls"
+    },
+    {
+      "yearbook_year": 2014,
+      "kind": "urban",
+      "title": "2-6分地区年末城镇人口比重",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0206C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0206C.HTM",
+      "path": "data/raw/yearbook/2014__urban__2-6___Z0206C.xls"
+    },
+    {
+      "yearbook_year": 2014,
+      "kind": "birth_province",
+      "title": "2-7分地区人口的城乡构成和出生率、死亡率、自然增长率(2013年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0207C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0207C.HTM",
+      "path": "data/raw/yearbook/2014__birth_province__2-7_2013___Z0207C.xls"
+    },
+    {
+      "yearbook_year": 2014,
+      "kind": "age",
+      "title": "2-11分地区人口年龄构成和抚养比(2013年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0211C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0211C.HTM",
+      "path": "data/raw/yearbook/2014__age__2-11_2013___Z0211C.xls"
+    },
+    {
+      "yearbook_year": 2014,
+      "kind": "national_gdp",
+      "title": "3-1国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0301C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0301C.HTM",
+      "path": "data/raw/yearbook/2014__national_gdp__3-1___Z0301C.xls"
+    },
+    {
+      "yearbook_year": 2014,
+      "kind": "national_gdp",
+      "title": "3-13三次产业对国内生产总值增长的拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0313C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0313C.HTM",
+      "path": "data/raw/yearbook/2014__national_gdp__3-13___Z0313C.xls"
+    },
+    {
+      "yearbook_year": 2014,
+      "kind": "gdp",
+      "title": "3-14地区生产总值和指数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0314C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0314C.HTM",
+      "path": "data/raw/yearbook/2014__gdp__3-14___Z0314C.xls"
+    },
+    {
+      "yearbook_year": 2014,
+      "kind": "pcgdp",
+      "title": "3-15人均地区生产总值和指数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0315C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0315C.HTM",
+      "path": "data/raw/yearbook/2014__pcgdp__3-15___Z0315C.xls"
+    },
+    {
+      "yearbook_year": 2014,
+      "kind": "national_gdp",
+      "title": "3-24三大需求对国内生产总值增长的贡献率和拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0324C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0324C.HTM",
+      "path": "data/raw/yearbook/2014__national_gdp__3-24___Z0324C.xls"
+    },
+    {
+      "yearbook_year": 2014,
+      "kind": "national_gdp",
+      "title": "9-16平均每万元国内生产总值能源消费量",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0916C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0916C.HTM",
+      "path": "data/raw/yearbook/2014__national_gdp__9-16___Z0916C.xls"
+    },
+    {
+      "yearbook_year": 2014,
+      "kind": "retail",
+      "title": "16-12社会消费品零售总额",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z1612C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z1612C.HTM",
+      "path": "data/raw/yearbook/2014__retail__16-12___Z1612C.xls"
+    },
+    {
+      "yearbook_year": 2014,
+      "kind": "higher_ed",
+      "title": "21-30分地区普通本专科学生情况(2013年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z2130C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z2130C.HTM",
+      "path": "data/raw/yearbook/2014__higher_ed__21-30_2013___Z2130C.xls"
+    },
+    {
+      "yearbook_year": 2014,
+      "kind": "higher_ed",
+      "title": "21-31分地区普通高等学校(机构)情况(2013年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z2131C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z2131C.HTM",
+      "path": "data/raw/yearbook/2014__higher_ed__21-31_2013___Z2131C.xls"
+    },
+    {
+      "yearbook_year": 2014,
+      "kind": "physicians",
+      "title": "22-3每千人口卫生技术人员",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z2203C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z2203C.HTM",
+      "path": "data/raw/yearbook/2014__physicians__22-3___Z2203C.xls"
+    },
+    {
+      "yearbook_year": 2014,
+      "kind": "national_gdp",
+      "title": "附录2-4国内生产总值及其增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z2904C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z2904C.HTM",
+      "path": "data/raw/yearbook/2014__national_gdp___2-4___Z2904C.xls"
+    },
+    {
+      "yearbook_year": 2014,
+      "kind": "national_gdp",
+      "title": "附录2-5人均国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z2905C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z2905C.HTM",
+      "path": "data/raw/yearbook/2014__national_gdp___2-5___Z2905C.xls"
+    },
+    {
+      "yearbook_year": 2021,
+      "kind": "birth_national",
+      "title": "2-2人口出生率、死亡率和自然增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C02-02.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2021/html/C02-02.jpg",
+      "path": "data/raw/yearbook/2021__birth_national__2-2___C02-02.xls"
+    },
+    {
+      "yearbook_year": 2021,
+      "kind": "population",
+      "title": "2-5分地区年末人口数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C02-05.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2021/html/C02-05.jpg",
+      "path": "data/raw/yearbook/2021__population__2-5___C02-05.xls"
+    },
+    {
+      "yearbook_year": 2021,
+      "kind": "urban",
+      "title": "2-6分地区年末城镇人口比重",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C02-06.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2021/html/C02-06.jpg",
+      "path": "data/raw/yearbook/2021__urban__2-6___C02-06.xls"
+    },
+    {
+      "yearbook_year": 2021,
+      "kind": "age",
+      "title": "2-16分地区人口年龄构成和抚养比(2020年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C02-16.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2021/html/C02-16.jpg",
+      "path": "data/raw/yearbook/2021__age__2-16_2020___C02-16.xls"
+    },
+    {
+      "yearbook_year": 2021,
+      "kind": "national_gdp",
+      "title": "3-1国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C03-01.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2021/html/C03-01.jpg",
+      "path": "data/raw/yearbook/2021__national_gdp__3-1___C03-01.xls"
+    },
+    {
+      "yearbook_year": 2021,
+      "kind": "national_gdp",
+      "title": "3-8三次产业和主要行业对国内生产总值增长的拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C03-08.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2021/html/C03-08.jpg",
+      "path": "data/raw/yearbook/2021__national_gdp__3-8___C03-08.xls"
+    },
+    {
+      "yearbook_year": 2021,
+      "kind": "gdp",
+      "title": "3-9地区生产总值(2020年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C03-09.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2021/html/C03-09.jpg",
+      "path": "data/raw/yearbook/2021__gdp__3-9_2020___C03-09.xls"
+    },
+    {
+      "yearbook_year": 2021,
+      "kind": "national_gdp",
+      "title": "3-14三大需求对国内生产总值增长的贡献率和拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C03-14.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2021/html/C03-14.jpg",
+      "path": "data/raw/yearbook/2021__national_gdp__3-14___C03-14.xls"
+    },
+    {
+      "yearbook_year": 2021,
+      "kind": "income",
+      "title": "6-16居民人均可支配收入和指数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C06-16.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2021/html/C06-16.jpg",
+      "path": "data/raw/yearbook/2021__income__6-16___C06-16.xls"
+    },
+    {
+      "yearbook_year": 2021,
+      "kind": "income",
+      "title": "6-18分地区居民人均可支配收入",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C06-18.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2021/html/C06-18.jpg",
+      "path": "data/raw/yearbook/2021__income__6-18___C06-18.xls"
+    },
+    {
+      "yearbook_year": 2021,
+      "kind": "national_gdp",
+      "title": "9-16万元国内生产总值能源消费量",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C09-16.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2021/html/C09-16.jpg",
+      "path": "data/raw/yearbook/2021__national_gdp__9-16___C09-16.xls"
+    },
+    {
+      "yearbook_year": 2021,
+      "kind": "retail",
+      "title": "15-12社会消费品零售总额",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C15-12.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2021/html/C15-12.jpg",
+      "path": "data/raw/yearbook/2021__retail__15-12___C15-12.xls"
+    },
+    {
+      "yearbook_year": 2021,
+      "kind": "higher_ed",
+      "title": "21-14分地区普通本专科学生情况(2020年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C21-14.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2021/html/C21-14.jpg",
+      "path": "data/raw/yearbook/2021__higher_ed__21-14_2020___C21-14.xls"
+    },
+    {
+      "yearbook_year": 2021,
+      "kind": "higher_ed",
+      "title": "21-15分地区普通高等学校(机构)情况(2020年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C21-15.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2021/html/C21-15.jpg",
+      "path": "data/raw/yearbook/2021__higher_ed__21-15_2020___C21-15.xls"
+    },
+    {
+      "yearbook_year": 2021,
+      "kind": "physicians",
+      "title": "22-3每千人口卫生技术人员",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C22-03.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2021/html/C22-03.jpg",
+      "path": "data/raw/yearbook/2021__physicians__22-3___C22-03.xls"
+    },
+    {
+      "yearbook_year": 2021,
+      "kind": "national_gdp",
+      "title": "附录1-4国内生产总值及其增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/Cfu1-04.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2021/html/Cfu1-04.jpg",
+      "path": "data/raw/yearbook/2021__national_gdp___1-4___Cfu1-04.xls"
+    },
+    {
+      "yearbook_year": 2021,
+      "kind": "national_gdp",
+      "title": "附录1-5人均国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/Cfu1-05.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2021/html/Cfu1-05.jpg",
+      "path": "data/raw/yearbook/2021__national_gdp___1-5___Cfu1-05.xls"
+    }
+  ],
+  "image_only": [
+    {
+      "yearbook_year": 2006,
+      "kind": "national_gdp",
+      "title": "附录2-3国内生产总值及其增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2006/html/ZA2703C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2006/html/ZA2703C.HTM",
+      "path": "data/raw/yearbook/2006__national_gdp___2-3___ZA2703C.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2007,
+      "kind": "national_gdp",
+      "title": "附录2-3国内生产总值及其增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2007/html/ZA2703C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2007/html/ZA2703C.HTM",
+      "path": "data/raw/yearbook/2007__national_gdp___2-3___ZA2703C.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2012,
+      "kind": "national_gdp",
+      "title": "2-1国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2012/html/C0201C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2012/html/C0201C.HTM",
+      "path": "data/raw/yearbook/2012__national_gdp__2-1___C0201C.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2013,
+      "kind": "national_gdp",
+      "title": "2-1国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0201C.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0201C.htm",
+      "path": "data/raw/yearbook/2013__national_gdp__2-1___Z0201C.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2015,
+      "kind": "birth_national",
+      "title": "2-2人口出生率、死亡率和自然增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH0202.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH0202.jpg",
+      "path": "data/raw/yearbook/2015__birth_national__2-2___CH0202.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2015,
+      "kind": "population",
+      "title": "2-5分地区年末人口数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH0205.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH0205.jpg",
+      "path": "data/raw/yearbook/2015__population__2-5___CH0205.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2015,
+      "kind": "urban",
+      "title": "2-6分地区年末城镇人口比重",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH0206.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH0206.jpg",
+      "path": "data/raw/yearbook/2015__urban__2-6___CH0206.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2015,
+      "kind": "birth_province",
+      "title": "2-7分地区人口的城乡构成和出生率、死亡率、自然增长率(2014年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH0207.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH0207.jpg",
+      "path": "data/raw/yearbook/2015__birth_province__2-7_2014___CH0207.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2015,
+      "kind": "age",
+      "title": "2-11分地区人口年龄构成和抚养比(2014年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH0211.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH0211.jpg",
+      "path": "data/raw/yearbook/2015__age__2-11_2014___CH0211.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2015,
+      "kind": "national_gdp",
+      "title": "3-1国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH0301.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH0301.jpg",
+      "path": "data/raw/yearbook/2015__national_gdp__3-1___CH0301.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2015,
+      "kind": "national_gdp",
+      "title": "3-8三次产业和主要行业对国内生产总值增长的拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH0308.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH0308.jpg",
+      "path": "data/raw/yearbook/2015__national_gdp__3-8___CH0308.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2015,
+      "kind": "gdp",
+      "title": "3-9地区生产总值和指数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH0309.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH0309.jpg",
+      "path": "data/raw/yearbook/2015__gdp__3-9___CH0309.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2015,
+      "kind": "pcgdp",
+      "title": "3-10人均地区生产总值和指数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH0310.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH0310.jpg",
+      "path": "data/raw/yearbook/2015__pcgdp__3-10___CH0310.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2015,
+      "kind": "national_gdp",
+      "title": "3-19三大需求对国内生产总值增长的贡献率和拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH0319.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH0319.jpg",
+      "path": "data/raw/yearbook/2015__national_gdp__3-19___CH0319.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2015,
+      "kind": "national_gdp",
+      "title": "9-16平均每万元国内生产总值能源消费量",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH0916.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH0916.jpg",
+      "path": "data/raw/yearbook/2015__national_gdp__9-16___CH0916.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2015,
+      "kind": "retail",
+      "title": "16-12社会消费品零售总额",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH1612.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH1612.jpg",
+      "path": "data/raw/yearbook/2015__retail__16-12___CH1612.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2015,
+      "kind": "higher_ed",
+      "title": "21-12分类型普通高等学校情况(2014年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH2112.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH2112.jpg",
+      "path": "data/raw/yearbook/2015__higher_ed__21-12_2014___CH2112.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2015,
+      "kind": "higher_ed",
+      "title": "21-24分地区普通本专科学生情况(2014年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH2124.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH2124.jpg",
+      "path": "data/raw/yearbook/2015__higher_ed__21-24_2014___CH2124.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2015,
+      "kind": "higher_ed",
+      "title": "21-25分地区普通高等学校(机构)情况(2014年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH2125.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH2125.jpg",
+      "path": "data/raw/yearbook/2015__higher_ed__21-25_2014___CH2125.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2015,
+      "kind": "physicians",
+      "title": "22-3每千人口卫生技术人员",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH2203.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH2203.jpg",
+      "path": "data/raw/yearbook/2015__physicians__22-3___CH2203.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2015,
+      "kind": "national_gdp",
+      "title": "附录2-4国内生产总值及其增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH2904.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH2904.jpg",
+      "path": "data/raw/yearbook/2015__national_gdp___2-4___CH2904.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2015,
+      "kind": "national_gdp",
+      "title": "附录2-5人均国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH2905.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2015/html/CH2905.jpg",
+      "path": "data/raw/yearbook/2015__national_gdp___2-5___CH2905.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2016,
+      "kind": "birth_national",
+      "title": "2-2人口出生率、死亡率和自然增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/0202CH.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2016/html/0202CH.jpg",
+      "path": "data/raw/yearbook/2016__birth_national__2-2___0202CH.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2016,
+      "kind": "population",
+      "title": "2-6分地区年末人口数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/0206CH.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2016/html/0206CH.jpg",
+      "path": "data/raw/yearbook/2016__population__2-6___0206CH.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2016,
+      "kind": "urban",
+      "title": "2-7分地区年末城镇人口比重",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/0207CH.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2016/html/0207CH.jpg",
+      "path": "data/raw/yearbook/2016__urban__2-7___0207CH.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2016,
+      "kind": "birth_province",
+      "title": "2-8分地区人口的城乡构成和出生率、死亡率、自然增长率(2015年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/0208CH.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2016/html/0208CH.jpg",
+      "path": "data/raw/yearbook/2016__birth_province__2-8_2015___0208CH.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2016,
+      "kind": "age",
+      "title": "2-12分地区人口年龄构成和抚养比(2015年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/0212CH.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2016/html/0212CH.jpg",
+      "path": "data/raw/yearbook/2016__age__2-12_2015___0212CH.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2016,
+      "kind": "national_gdp",
+      "title": "3-1国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/0301CH.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2016/html/0301CH.jpg",
+      "path": "data/raw/yearbook/2016__national_gdp__3-1___0301CH.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2016,
+      "kind": "national_gdp",
+      "title": "3-8三次产业和主要行业对国内生产总值增长的拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/0308CH.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2016/html/0308CH.jpg",
+      "path": "data/raw/yearbook/2016__national_gdp__3-8___0308CH.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2016,
+      "kind": "gdp",
+      "title": "3-9地区生产总值和指数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/0309CH.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2016/html/0309CH.jpg",
+      "path": "data/raw/yearbook/2016__gdp__3-9___0309CH.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2016,
+      "kind": "pcgdp",
+      "title": "3-10人均地区生产总值和指数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/0310CH.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2016/html/0310CH.jpg",
+      "path": "data/raw/yearbook/2016__pcgdp__3-10___0310CH.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2016,
+      "kind": "national_gdp",
+      "title": "3-19三大需求对国内生产总值增长的贡献率和拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/0319CH.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2016/html/0319CH.jpg",
+      "path": "data/raw/yearbook/2016__national_gdp__3-19___0319CH.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2016,
+      "kind": "income",
+      "title": "6-17分地区居民人均可支配收入",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/0617CH.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2016/html/0617CH.jpg",
+      "path": "data/raw/yearbook/2016__income__6-17___0617CH.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2016,
+      "kind": "national_gdp",
+      "title": "9-16平均每万元国内生产总值能源消费量",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/0916CH.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2016/html/0916CH.jpg",
+      "path": "data/raw/yearbook/2016__national_gdp__9-16___0916CH.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2016,
+      "kind": "retail",
+      "title": "15-12社会消费品零售总额",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/1512CH.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2016/html/1512CH.jpg",
+      "path": "data/raw/yearbook/2016__retail__15-12___1512CH.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2016,
+      "kind": "higher_ed",
+      "title": "21-12分类型普通高等学校情况(2015年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/2112CH.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2016/html/2112CH.jpg",
+      "path": "data/raw/yearbook/2016__higher_ed__21-12_2015___2112CH.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2016,
+      "kind": "higher_ed",
+      "title": "21-24分地区普通本专科学生情况(2015年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/2124CH.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2016/html/2124CH.jpg",
+      "path": "data/raw/yearbook/2016__higher_ed__21-24_2015___2124CH.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2016,
+      "kind": "higher_ed",
+      "title": "21-25分地区普通高等学校(机构)情况(2015年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/2125CH.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2016/html/2125CH.jpg",
+      "path": "data/raw/yearbook/2016__higher_ed__21-25_2015___2125CH.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2016,
+      "kind": "physicians",
+      "title": "22-3每千人口卫生技术人员",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/2203CH.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2016/html/2203CH.jpg",
+      "path": "data/raw/yearbook/2016__physicians__22-3___2203CH.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2016,
+      "kind": "national_gdp",
+      "title": "附录2-4国内生产总值及其增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/2904CH.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2016/html/2904CH.jpg",
+      "path": "data/raw/yearbook/2016__national_gdp___2-4___2904CH.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2016,
+      "kind": "national_gdp",
+      "title": "附录2-5人均国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/2905CH.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2016/html/2905CH.jpg",
+      "path": "data/raw/yearbook/2016__national_gdp___2-5___2905CH.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2017,
+      "kind": "birth_national",
+      "title": "2-2人口出生率、死亡率和自然增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0202.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0202.jpg",
+      "path": "data/raw/yearbook/2017__birth_national__2-2___CH0202.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2017,
+      "kind": "population",
+      "title": "2-6分地区年末人口数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0206.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0206.jpg",
+      "path": "data/raw/yearbook/2017__population__2-6___CH0206.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2017,
+      "kind": "urban",
+      "title": "2-7分地区年末城镇人口比重",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0207.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0207.jpg",
+      "path": "data/raw/yearbook/2017__urban__2-7___CH0207.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2017,
+      "kind": "birth_province",
+      "title": "2-8分地区人口的城乡构成和出生率、死亡率、自然增长率(2016年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0208.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0208.jpg",
+      "path": "data/raw/yearbook/2017__birth_province__2-8_2016___CH0208.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2017,
+      "kind": "age",
+      "title": "2-12分地区人口年龄构成和抚养比(2016年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0212.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0212.jpg",
+      "path": "data/raw/yearbook/2017__age__2-12_2016___CH0212.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2017,
+      "kind": "national_gdp",
+      "title": "3-1国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0301.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0301.jpg",
+      "path": "data/raw/yearbook/2017__national_gdp__3-1___CH0301.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2017,
+      "kind": "national_gdp",
+      "title": "3-8三次产业和主要行业对国内生产总值增长的拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0308.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0308.jpg",
+      "path": "data/raw/yearbook/2017__national_gdp__3-8___CH0308.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2017,
+      "kind": "gdp",
+      "title": "3-9地区生产总值(2016年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0309.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0309.jpg",
+      "path": "data/raw/yearbook/2017__gdp__3-9_2016___CH0309.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2017,
+      "kind": "national_gdp",
+      "title": "3-17三大需求对国内生产总值增长的贡献率和拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0317.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0317.jpg",
+      "path": "data/raw/yearbook/2017__national_gdp__3-17___CH0317.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2017,
+      "kind": "income",
+      "title": "6-17分地区居民人均可支配收入",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0617.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0617.jpg",
+      "path": "data/raw/yearbook/2017__income__6-17___CH0617.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2017,
+      "kind": "national_gdp",
+      "title": "9-16平均每万元国内生产总值能源消费量",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0916.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0916.jpg",
+      "path": "data/raw/yearbook/2017__national_gdp__9-16___CH0916.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2017,
+      "kind": "retail",
+      "title": "15-12社会消费品零售总额",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH1512.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH1512.jpg",
+      "path": "data/raw/yearbook/2017__retail__15-12___CH1512.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2017,
+      "kind": "higher_ed",
+      "title": "21-14分地区普通本专科学生情况(2016年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH2114.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH2114.jpg",
+      "path": "data/raw/yearbook/2017__higher_ed__21-14_2016___CH2114.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2017,
+      "kind": "higher_ed",
+      "title": "21-15分地区普通高等学校(机构)情况(2016年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH2115.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH2115.jpg",
+      "path": "data/raw/yearbook/2017__higher_ed__21-15_2016___CH2115.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2017,
+      "kind": "physicians",
+      "title": "22-3每千人口卫生技术人员",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH2203.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH2203.jpg",
+      "path": "data/raw/yearbook/2017__physicians__22-3___CH2203.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2017,
+      "kind": "national_gdp",
+      "title": "附录2-4国内生产总值及其增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH2904.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH2904.jpg",
+      "path": "data/raw/yearbook/2017__national_gdp___2-4___CH2904.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2017,
+      "kind": "national_gdp",
+      "title": "附录2-5人均国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH2905.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH2905.jpg",
+      "path": "data/raw/yearbook/2017__national_gdp___2-5___CH2905.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2018,
+      "kind": "birth_national",
+      "title": "2-2人口出生率、死亡率和自然增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0202.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0202.jpg",
+      "path": "data/raw/yearbook/2018__birth_national__2-2___CH0202.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2018,
+      "kind": "population",
+      "title": "2-6分地区年末人口数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0206.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0206.jpg",
+      "path": "data/raw/yearbook/2018__population__2-6___CH0206.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2018,
+      "kind": "urban",
+      "title": "2-7分地区年末城镇人口比重",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0207.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0207.jpg",
+      "path": "data/raw/yearbook/2018__urban__2-7___CH0207.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2018,
+      "kind": "birth_province",
+      "title": "2-8分地区人口的城乡构成和出生率、死亡率、自然增长率(2017年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0208.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0208.jpg",
+      "path": "data/raw/yearbook/2018__birth_province__2-8_2017___CH0208.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2018,
+      "kind": "age",
+      "title": "2-12分地区人口年龄构成和抚养比(2017年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0212.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0212.jpg",
+      "path": "data/raw/yearbook/2018__age__2-12_2017___CH0212.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2018,
+      "kind": "national_gdp",
+      "title": "3-1国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0301.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0301.jpg",
+      "path": "data/raw/yearbook/2018__national_gdp__3-1___CH0301.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2018,
+      "kind": "national_gdp",
+      "title": "3-8三次产业和主要行业对国内生产总值增长的拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0308.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0308.jpg",
+      "path": "data/raw/yearbook/2018__national_gdp__3-8___CH0308.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2018,
+      "kind": "gdp",
+      "title": "3-9地区生产总值(2017年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0309.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0309.jpg",
+      "path": "data/raw/yearbook/2018__gdp__3-9_2017___CH0309.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2018,
+      "kind": "national_gdp",
+      "title": "3-17三大需求对国内生产总值增长的贡献率和拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0317.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0317.jpg",
+      "path": "data/raw/yearbook/2018__national_gdp__3-17___CH0317.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2018,
+      "kind": "income",
+      "title": "6-16居民人均可支配收入和指数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0616.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0616.jpg",
+      "path": "data/raw/yearbook/2018__income__6-16___CH0616.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2018,
+      "kind": "income",
+      "title": "6-17分地区居民人均可支配收入",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0617.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0617.jpg",
+      "path": "data/raw/yearbook/2018__income__6-17___CH0617.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2018,
+      "kind": "national_gdp",
+      "title": "9-16平均每万元国内生产总值能源消费量",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0916.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0916.jpg",
+      "path": "data/raw/yearbook/2018__national_gdp__9-16___CH0916.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2018,
+      "kind": "retail",
+      "title": "15-12社会消费品零售总额",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH1512.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH1512.jpg",
+      "path": "data/raw/yearbook/2018__retail__15-12___CH1512.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2018,
+      "kind": "higher_ed",
+      "title": "21-14分地区普通本专科学生情况(2017年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH2114.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH2114.jpg",
+      "path": "data/raw/yearbook/2018__higher_ed__21-14_2017___CH2114.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2018,
+      "kind": "higher_ed",
+      "title": "21-15分地区普通高等学校(机构)情况(2017年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH2115.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH2115.jpg",
+      "path": "data/raw/yearbook/2018__higher_ed__21-15_2017___CH2115.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2018,
+      "kind": "physicians",
+      "title": "22-3每千人口卫生技术人员",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH2203.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH2203.jpg",
+      "path": "data/raw/yearbook/2018__physicians__22-3___CH2203.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2018,
+      "kind": "national_gdp",
+      "title": "附录1-4国内生产总值及其增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH2904.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH2904.jpg",
+      "path": "data/raw/yearbook/2018__national_gdp___1-4___CH2904.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2018,
+      "kind": "national_gdp",
+      "title": "附录1-5人均国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH2905.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH2905.jpg",
+      "path": "data/raw/yearbook/2018__national_gdp___1-5___CH2905.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2019,
+      "kind": "birth_national",
+      "title": "2-2人口出生率、死亡率和自然增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0202.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0202.jpg",
+      "path": "data/raw/yearbook/2019__birth_national__2-2___C0202.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2019,
+      "kind": "population",
+      "title": "2-6分地区年末人口数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0206.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0206.jpg",
+      "path": "data/raw/yearbook/2019__population__2-6___C0206.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2019,
+      "kind": "urban",
+      "title": "2-7分地区年末城镇人口比重",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0207.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0207.jpg",
+      "path": "data/raw/yearbook/2019__urban__2-7___C0207.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2019,
+      "kind": "birth_province",
+      "title": "2-8分地区人口的城乡构成和出生率、死亡率、自然增长率(2018年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0208.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0208.jpg",
+      "path": "data/raw/yearbook/2019__birth_province__2-8_2018___C0208.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2019,
+      "kind": "age",
+      "title": "2-12分地区人口年龄构成和抚养比(2018年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0212.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0212.jpg",
+      "path": "data/raw/yearbook/2019__age__2-12_2018___C0212.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2019,
+      "kind": "national_gdp",
+      "title": "3-1国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0301.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0301.jpg",
+      "path": "data/raw/yearbook/2019__national_gdp__3-1___C0301.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2019,
+      "kind": "national_gdp",
+      "title": "3-8三次产业和主要行业对国内生产总值增长的拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0308.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0308.jpg",
+      "path": "data/raw/yearbook/2019__national_gdp__3-8___C0308.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2019,
+      "kind": "gdp",
+      "title": "3-9地区生产总值(2018年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0309.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0309.jpg",
+      "path": "data/raw/yearbook/2019__gdp__3-9_2018___C0309.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2019,
+      "kind": "national_gdp",
+      "title": "3-13三大需求对国内生产总值增长的贡献率和拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0313.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0313.jpg",
+      "path": "data/raw/yearbook/2019__national_gdp__3-13___C0313.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2019,
+      "kind": "income",
+      "title": "6-16居民人均可支配收入和指数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0616.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0616.jpg",
+      "path": "data/raw/yearbook/2019__income__6-16___C0616.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2019,
+      "kind": "income",
+      "title": "6-17分地区居民人均可支配收入",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0617.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0617.jpg",
+      "path": "data/raw/yearbook/2019__income__6-17___C0617.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2019,
+      "kind": "national_gdp",
+      "title": "9-16平均每万元国内生产总值能源消费量",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0916.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0916.jpg",
+      "path": "data/raw/yearbook/2019__national_gdp__9-16___C0916.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2019,
+      "kind": "retail",
+      "title": "15-12社会消费品零售总额",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C1512.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2019/html/C1512.jpg",
+      "path": "data/raw/yearbook/2019__retail__15-12___C1512.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2019,
+      "kind": "higher_ed",
+      "title": "21-14分地区普通本专科学生情况(2018年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C2114.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2019/html/C2114.jpg",
+      "path": "data/raw/yearbook/2019__higher_ed__21-14_2018___C2114.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2019,
+      "kind": "higher_ed",
+      "title": "21-15分地区普通高等学校(机构)情况(2018年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C2115.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2019/html/C2115.jpg",
+      "path": "data/raw/yearbook/2019__higher_ed__21-15_2018___C2115.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2019,
+      "kind": "physicians",
+      "title": "22-3每千人口卫生技术人员",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C2203.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2019/html/C2203.jpg",
+      "path": "data/raw/yearbook/2019__physicians__22-3___C2203.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2019,
+      "kind": "national_gdp",
+      "title": "附录1-4国内生产总值及其增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C2904.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2019/html/C2904.jpg",
+      "path": "data/raw/yearbook/2019__national_gdp___1-4___C2904.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2019,
+      "kind": "national_gdp",
+      "title": "附录1-5人均国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C2905.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2019/html/C2905.jpg",
+      "path": "data/raw/yearbook/2019__national_gdp___1-5___C2905.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2020,
+      "kind": "birth_national",
+      "title": "2-2人口出生率、死亡率和自然增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0202.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0202.jpg",
+      "path": "data/raw/yearbook/2020__birth_national__2-2___C0202.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2020,
+      "kind": "population",
+      "title": "2-6分地区年末人口数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0206.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0206.jpg",
+      "path": "data/raw/yearbook/2020__population__2-6___C0206.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2020,
+      "kind": "urban",
+      "title": "2-7分地区年末城镇人口比重",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0207.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0207.jpg",
+      "path": "data/raw/yearbook/2020__urban__2-7___C0207.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2020,
+      "kind": "birth_province",
+      "title": "2-8分地区人口的城乡构成和出生率、死亡率、自然增长率(2019年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0208.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0208.jpg",
+      "path": "data/raw/yearbook/2020__birth_province__2-8_2019___C0208.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2020,
+      "kind": "age",
+      "title": "2-12分地区人口年龄构成和抚养比(2019年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0212.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0212.jpg",
+      "path": "data/raw/yearbook/2020__age__2-12_2019___C0212.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2020,
+      "kind": "national_gdp",
+      "title": "3-1国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0301.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0301.jpg",
+      "path": "data/raw/yearbook/2020__national_gdp__3-1___C0301.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2020,
+      "kind": "national_gdp",
+      "title": "3-8三次产业和主要行业对国内生产总值增长的拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0308.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0308.jpg",
+      "path": "data/raw/yearbook/2020__national_gdp__3-8___C0308.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2020,
+      "kind": "gdp",
+      "title": "3-9地区生产总值(2019年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0309.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0309.jpg",
+      "path": "data/raw/yearbook/2020__gdp__3-9_2019___C0309.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2020,
+      "kind": "national_gdp",
+      "title": "3-14三大需求对国内生产总值增长的贡献率和拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0314.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0314.jpg",
+      "path": "data/raw/yearbook/2020__national_gdp__3-14___C0314.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2020,
+      "kind": "income",
+      "title": "6-16居民人均可支配收入和指数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0616.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0616.jpg",
+      "path": "data/raw/yearbook/2020__income__6-16___C0616.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2020,
+      "kind": "income",
+      "title": "6-17分地区居民人均可支配收入",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0617.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0617.jpg",
+      "path": "data/raw/yearbook/2020__income__6-17___C0617.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2020,
+      "kind": "national_gdp",
+      "title": "9-16万元国内生产总值能源消费量",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0916.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0916.jpg",
+      "path": "data/raw/yearbook/2020__national_gdp__9-16___C0916.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2020,
+      "kind": "retail",
+      "title": "15-12社会消费品零售总额",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C1512.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2020/html/C1512.jpg",
+      "path": "data/raw/yearbook/2020__retail__15-12___C1512.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2020,
+      "kind": "higher_ed",
+      "title": "21-14分地区普通本专科学生情况(2019年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C2114.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2020/html/C2114.jpg",
+      "path": "data/raw/yearbook/2020__higher_ed__21-14_2019___C2114.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2020,
+      "kind": "higher_ed",
+      "title": "21-15分地区普通高等学校(机构)情况(2019年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C2115.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2020/html/C2115.jpg",
+      "path": "data/raw/yearbook/2020__higher_ed__21-15_2019___C2115.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2020,
+      "kind": "physicians",
+      "title": "22-3每千人口卫生技术人员",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C2203.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2020/html/C2203.jpg",
+      "path": "data/raw/yearbook/2020__physicians__22-3___C2203.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2020,
+      "kind": "national_gdp",
+      "title": "附录1-4国内生产总值及其增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C2904.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2020/html/C2904.jpg",
+      "path": "data/raw/yearbook/2020__national_gdp___1-4___C2904.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2020,
+      "kind": "national_gdp",
+      "title": "附录1-5人均国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C2905.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2020/html/C2905.jpg",
+      "path": "data/raw/yearbook/2020__national_gdp___1-5___C2905.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2022,
+      "kind": "birth_national",
+      "title": "2-2人口出生率、死亡率和自然增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2022/html/C02-02.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2022/html/C02-02.jpg",
+      "path": "data/raw/yearbook/2022__birth_national__2-2___C02-02.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2022,
+      "kind": "population",
+      "title": "2-5分地区年末人口数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2022/html/C02-05.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2022/html/C02-05.jpg",
+      "path": "data/raw/yearbook/2022__population__2-5___C02-05.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2022,
+      "kind": "urban",
+      "title": "2-6分地区年末城镇人口比重",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2022/html/C02-06.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2022/html/C02-06.jpg",
+      "path": "data/raw/yearbook/2022__urban__2-6___C02-06.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2022,
+      "kind": "birth_province",
+      "title": "2-7分地区人口的城乡构成和出生率、死亡率、自然增长率(2021年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2022/html/C02-07.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2022/html/C02-07.jpg",
+      "path": "data/raw/yearbook/2022__birth_province__2-7_2021___C02-07.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2022,
+      "kind": "age",
+      "title": "2-11分地区人口年龄构成和抚养比(2021年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2022/html/C02-11.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2022/html/C02-11.jpg",
+      "path": "data/raw/yearbook/2022__age__2-11_2021___C02-11.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2022,
+      "kind": "national_gdp",
+      "title": "3-1国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2022/html/C03-01.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2022/html/C03-01.jpg",
+      "path": "data/raw/yearbook/2022__national_gdp__3-1___C03-01.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2022,
+      "kind": "national_gdp",
+      "title": "3-8三次产业和主要行业对国内生产总值增长的拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2022/html/C03-08.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2022/html/C03-08.jpg",
+      "path": "data/raw/yearbook/2022__national_gdp__3-8___C03-08.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2022,
+      "kind": "gdp",
+      "title": "3-9地区生产总值(2021年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2022/html/C03-09.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2022/html/C03-09.jpg",
+      "path": "data/raw/yearbook/2022__gdp__3-9_2021___C03-09.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2022,
+      "kind": "national_gdp",
+      "title": "3-14三大需求对国内生产总值增长的贡献率和拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2022/html/C03-14.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2022/html/C03-14.jpg",
+      "path": "data/raw/yearbook/2022__national_gdp__3-14___C03-14.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2022,
+      "kind": "income",
+      "title": "6-16居民人均可支配收入和指数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2022/html/C06-16.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2022/html/C06-16.jpg",
+      "path": "data/raw/yearbook/2022__income__6-16___C06-16.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2022,
+      "kind": "income",
+      "title": "6-18分地区居民人均可支配收入",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2022/html/C06-18.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2022/html/C06-18.jpg",
+      "path": "data/raw/yearbook/2022__income__6-18___C06-18.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2022,
+      "kind": "national_gdp",
+      "title": "9-16万元国内生产总值能源消费量",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2022/html/C09-16.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2022/html/C09-16.jpg",
+      "path": "data/raw/yearbook/2022__national_gdp__9-16___C09-16.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2022,
+      "kind": "retail",
+      "title": "15-12社会消费品零售总额",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2022/html/C15-12.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2022/html/C15-12.jpg",
+      "path": "data/raw/yearbook/2022__retail__15-12___C15-12.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2022,
+      "kind": "physicians",
+      "title": "22-3每千人口卫生技术人员",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2022/html/C22-03.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2022/html/C22-03.jpg",
+      "path": "data/raw/yearbook/2022__physicians__22-3___C22-03.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2022,
+      "kind": "national_gdp",
+      "title": "附录1-4国内生产总值及其增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2022/html/C29-04.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2022/html/C29-04.jpg",
+      "path": "data/raw/yearbook/2022__national_gdp___1-4___C29-04.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2022,
+      "kind": "national_gdp",
+      "title": "附录1-5人均国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2022/html/C29-05.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2022/html/C29-05.jpg",
+      "path": "data/raw/yearbook/2022__national_gdp___1-5___C29-05.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2023,
+      "kind": "birth_national",
+      "title": "2-2人口出生率、死亡率和自然增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2023/html/C02-02.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2023/html/C02-02.jpg",
+      "path": "data/raw/yearbook/2023__birth_national__2-2___C02-02.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2023,
+      "kind": "population",
+      "title": "2-5分地区年末人口数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2023/html/C02-05.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2023/html/C02-05.jpg",
+      "path": "data/raw/yearbook/2023__population__2-5___C02-05.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2023,
+      "kind": "urban",
+      "title": "2-6分地区年末城镇人口比重",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2023/html/C02-06.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2023/html/C02-06.jpg",
+      "path": "data/raw/yearbook/2023__urban__2-6___C02-06.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2023,
+      "kind": "birth_province",
+      "title": "2-7分地区人口的城乡构成和出生率、死亡率、自然增长率(2022年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2023/html/C02-07.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2023/html/C02-07.jpg",
+      "path": "data/raw/yearbook/2023__birth_province__2-7_2022___C02-07.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2023,
+      "kind": "age",
+      "title": "2-11分地区人口年龄构成和抚养比(2022年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2023/html/C02-11.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2023/html/C02-11.jpg",
+      "path": "data/raw/yearbook/2023__age__2-11_2022___C02-11.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2023,
+      "kind": "national_gdp",
+      "title": "3-1国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2023/html/C03-01.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2023/html/C03-01.jpg",
+      "path": "data/raw/yearbook/2023__national_gdp__3-1___C03-01.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2023,
+      "kind": "national_gdp",
+      "title": "3-8三次产业和主要行业对国内生产总值增长的拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2023/html/C03-08.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2023/html/C03-08.jpg",
+      "path": "data/raw/yearbook/2023__national_gdp__3-8___C03-08.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2023,
+      "kind": "gdp",
+      "title": "3-9地区生产总值(2022年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2023/html/C03-09.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2023/html/C03-09.jpg",
+      "path": "data/raw/yearbook/2023__gdp__3-9_2022___C03-09.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2023,
+      "kind": "national_gdp",
+      "title": "3-14三大需求对国内生产总值增长的贡献率和拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2023/html/C03-14.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2023/html/C03-14.jpg",
+      "path": "data/raw/yearbook/2023__national_gdp__3-14___C03-14.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2023,
+      "kind": "income",
+      "title": "6-16居民人均可支配收入和指数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2023/html/C06-16.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2023/html/C06-16.jpg",
+      "path": "data/raw/yearbook/2023__income__6-16___C06-16.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2023,
+      "kind": "income",
+      "title": "6-18分地区居民人均可支配收入",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2023/html/C06-18.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2023/html/C06-18.jpg",
+      "path": "data/raw/yearbook/2023__income__6-18___C06-18.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2023,
+      "kind": "national_gdp",
+      "title": "9-16万元国内生产总值能源消费量",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2023/html/C09-16.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2023/html/C09-16.jpg",
+      "path": "data/raw/yearbook/2023__national_gdp__9-16___C09-16.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2023,
+      "kind": "retail",
+      "title": "15-12社会消费品零售总额",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2023/html/C15-12.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2023/html/C15-12.jpg",
+      "path": "data/raw/yearbook/2023__retail__15-12___C15-12.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2023,
+      "kind": "physicians",
+      "title": "22-3每千人口卫生技术人员",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2023/html/C22-03.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2023/html/C22-03.jpg",
+      "path": "data/raw/yearbook/2023__physicians__22-3___C22-03.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2023,
+      "kind": "national_gdp",
+      "title": "附录1-4国内生产总值及其增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2023/html/CFu1-04.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2023/html/CFu1-04.jpg",
+      "path": "data/raw/yearbook/2023__national_gdp___1-4___CFu1-04.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2023,
+      "kind": "national_gdp",
+      "title": "附录1-5人均国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2023/html/CFu1-05.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2023/html/CFu1-05.jpg",
+      "path": "data/raw/yearbook/2023__national_gdp___1-5___CFu1-05.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2024,
+      "kind": "birth_national",
+      "title": "2-2人口出生率、死亡率和自然增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C02-02.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2024/html/C02-02.jpg",
+      "path": "data/raw/yearbook/2024__birth_national__2-2___C02-02.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2024,
+      "kind": "population",
+      "title": "2-5分地区年末人口数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C02-05.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2024/html/C02-05.jpg",
+      "path": "data/raw/yearbook/2024__population__2-5___C02-05.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2024,
+      "kind": "urban",
+      "title": "2-6分地区年末城镇人口比重",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C02-06.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2024/html/C02-06.jpg",
+      "path": "data/raw/yearbook/2024__urban__2-6___C02-06.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2024,
+      "kind": "birth_province",
+      "title": "2-7分地区人口的城乡构成和出生率、死亡率、自然增长率(2023年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C02-07.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2024/html/C02-07.jpg",
+      "path": "data/raw/yearbook/2024__birth_province__2-7_2023___C02-07.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2024,
+      "kind": "age",
+      "title": "2-11分地区人口年龄构成和抚养比(2023年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C02-11.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2024/html/C02-11.jpg",
+      "path": "data/raw/yearbook/2024__age__2-11_2023___C02-11.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2024,
+      "kind": "national_gdp",
+      "title": "3-1国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C03-01.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2024/html/C03-01.jpg",
+      "path": "data/raw/yearbook/2024__national_gdp__3-1___C03-01.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2024,
+      "kind": "national_gdp",
+      "title": "3-8三次产业和主要行业对国内生产总值增长的拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C03-08.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2024/html/C03-08.jpg",
+      "path": "data/raw/yearbook/2024__national_gdp__3-8___C03-08.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2024,
+      "kind": "gdp",
+      "title": "3-9地区生产总值(2023年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C03-09.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2024/html/C03-09.jpg",
+      "path": "data/raw/yearbook/2024__gdp__3-9_2023___C03-09.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2024,
+      "kind": "national_gdp",
+      "title": "3-14三大需求对国内生产总值增长的贡献率和拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C03-14.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2024/html/C03-14.jpg",
+      "path": "data/raw/yearbook/2024__national_gdp__3-14___C03-14.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2024,
+      "kind": "income",
+      "title": "6-16居民人均可支配收入和指数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C06-16.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2024/html/C06-16.jpg",
+      "path": "data/raw/yearbook/2024__income__6-16___C06-16.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2024,
+      "kind": "income",
+      "title": "6-18分地区居民人均可支配收入",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C06-18.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2024/html/C06-18.jpg",
+      "path": "data/raw/yearbook/2024__income__6-18___C06-18.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2024,
+      "kind": "national_gdp",
+      "title": "9-16万元国内生产总值能源消费量",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C09-16.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2024/html/C09-16.jpg",
+      "path": "data/raw/yearbook/2024__national_gdp__9-16___C09-16.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2024,
+      "kind": "retail",
+      "title": "15-12社会消费品零售总额",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C15-12.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2024/html/C15-12.jpg",
+      "path": "data/raw/yearbook/2024__retail__15-12___C15-12.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2024,
+      "kind": "physicians",
+      "title": "22-3每千人口卫生技术人员",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C22-03.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2024/html/C22-03.jpg",
+      "path": "data/raw/yearbook/2024__physicians__22-3___C22-03.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2024,
+      "kind": "national_gdp",
+      "title": "附录1-4国内生产总值及其增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/Cfu-04.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2024/html/Cfu-04.jpg",
+      "path": "data/raw/yearbook/2024__national_gdp___1-4___Cfu-04.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2024,
+      "kind": "national_gdp",
+      "title": "附录1-5人均国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/Cfu-05.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2024/html/Cfu-05.jpg",
+      "path": "data/raw/yearbook/2024__national_gdp___1-5___Cfu-05.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2025,
+      "kind": "birth_national",
+      "title": "2-2人口出生率、死亡率和自然增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C02-02.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2025/html/C02-02.jpg",
+      "path": "data/raw/yearbook/2025__birth_national__2-2___C02-02.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2025,
+      "kind": "population",
+      "title": "2-5分地区年末人口数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C02-05.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2025/html/C02-05.jpg",
+      "path": "data/raw/yearbook/2025__population__2-5___C02-05.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2025,
+      "kind": "urban",
+      "title": "2-6分地区年末城镇人口比重",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C02-06.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2025/html/C02-06.jpg",
+      "path": "data/raw/yearbook/2025__urban__2-6___C02-06.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2025,
+      "kind": "birth_province",
+      "title": "2-7分地区人口的城乡构成和出生率、死亡率、自然增长率(2024年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C02-07.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2025/html/C02-07.jpg",
+      "path": "data/raw/yearbook/2025__birth_province__2-7_2024___C02-07.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2025,
+      "kind": "age",
+      "title": "2-11分地区人口年龄构成和抚养比(2024年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C02-11.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2025/html/C02-11.jpg",
+      "path": "data/raw/yearbook/2025__age__2-11_2024___C02-11.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2025,
+      "kind": "national_gdp",
+      "title": "3-1国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C03-01.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2025/html/C03-01.jpg",
+      "path": "data/raw/yearbook/2025__national_gdp__3-1___C03-01.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2025,
+      "kind": "national_gdp",
+      "title": "3-8三次产业和主要行业对国内生产总值增长的拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C03-08.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2025/html/C03-08.jpg",
+      "path": "data/raw/yearbook/2025__national_gdp__3-8___C03-08.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2025,
+      "kind": "gdp",
+      "title": "3-9地区生产总值(2024年)",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C03-09.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2025/html/C03-09.jpg",
+      "path": "data/raw/yearbook/2025__gdp__3-9_2024___C03-09.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2025,
+      "kind": "national_gdp",
+      "title": "3-14三大需求对国内生产总值增长的贡献率和拉动",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C03-14.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2025/html/C03-14.jpg",
+      "path": "data/raw/yearbook/2025__national_gdp__3-14___C03-14.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2025,
+      "kind": "income",
+      "title": "6-16居民人均可支配收入和指数",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C06-16.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2025/html/C06-16.jpg",
+      "path": "data/raw/yearbook/2025__income__6-16___C06-16.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2025,
+      "kind": "income",
+      "title": "6-18分地区居民人均可支配收入",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C06-18.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2025/html/C06-18.jpg",
+      "path": "data/raw/yearbook/2025__income__6-18___C06-18.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2025,
+      "kind": "national_gdp",
+      "title": "9-16万元国内生产总值能源消费量",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C09-16.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2025/html/C09-16.jpg",
+      "path": "data/raw/yearbook/2025__national_gdp__9-16___C09-16.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2025,
+      "kind": "retail",
+      "title": "15-12社会消费品零售总额",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C15-12.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2025/html/C15-12.jpg",
+      "path": "data/raw/yearbook/2025__retail__15-12___C15-12.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2025,
+      "kind": "physicians",
+      "title": "22-3每千人口卫生技术人员",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C22-03.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2025/html/C22-03.jpg",
+      "path": "data/raw/yearbook/2025__physicians__22-3___C22-03.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2025,
+      "kind": "national_gdp",
+      "title": "附录1-4国内生产总值及其增长率",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/Cfu-04.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2025/html/Cfu-04.jpg",
+      "path": "data/raw/yearbook/2025__national_gdp___1-4___Cfu-04.xls",
+      "reason": "xls_404"
+    },
+    {
+      "yearbook_year": 2025,
+      "kind": "national_gdp",
+      "title": "附录1-5人均国内生产总值",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/Cfu-05.xls",
+      "page": "https://www.stats.gov.cn/sj/ndsj/2025/html/Cfu-05.jpg",
+      "path": "data/raw/yearbook/2025__national_gdp___1-5___Cfu-05.xls",
+      "reason": "xls_404"
+    }
+  ],
+  "failed": [],
+  "skipped_title": []
+}

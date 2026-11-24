@@ -1,0 +1,250 @@
+[
+  {
+    "region_code": "110000",
+    "gdp": 49843.1,
+    "per_capita": 228167.0,
+    "expected_year_end": 228323.86623912046,
+    "gap": 0.0006870339124170899,
+    "status": "accepted"
+  },
+  {
+    "region_code": "120000",
+    "gdp": 18024.3,
+    "per_capita": 132413.0,
+    "expected_year_end": 132142.96187683282,
+    "gap": 0.00204353012322267,
+    "status": "accepted"
+  },
+  {
+    "region_code": "130000",
+    "gdp": 47526.9,
+    "per_capita": 64359.0,
+    "expected_year_end": 64417.05069124424,
+    "gap": 0.000901169653396372,
+    "status": "accepted"
+  },
+  {
+    "region_code": "140000",
+    "gdp": 25494.7,
+    "per_capita": 73762.0,
+    "expected_year_end": 73983.45908299478,
+    "gap": 0.0029933594041116063,
+    "status": "accepted"
+  },
+  {
+    "region_code": "150000",
+    "gdp": 26314.6,
+    "per_capita": 110011.0,
+    "expected_year_end": 110195.14237855945,
+    "gap": 0.001671057131782283,
+    "status": "accepted"
+  },
+  {
+    "region_code": "210000",
+    "gdp": 32617.2,
+    "per_capita": 78236.0,
+    "expected_year_end": 78501.08303249098,
+    "gap": 0.0033768073286487565,
+    "status": "accepted"
+  },
+  {
+    "region_code": "220000",
+    "gdp": 14361.2,
+    "per_capita": 61699.0,
+    "expected_year_end": 61981.87311178249,
+    "gap": 0.004563803860401783,
+    "status": "accepted"
+  },
+  {
+    "region_code": "230000",
+    "gdp": 16476.9,
+    "per_capita": 54102.0,
+    "expected_year_end": 54397.16077913503,
+    "gap": 0.005426032809569881,
+    "status": "accepted"
+  },
+  {
+    "region_code": "310000",
+    "gdp": 53926.7,
+    "per_capita": 217140.0,
+    "expected_year_end": 217446.3709677419,
+    "gap": 0.0014089495556003362,
+    "status": "accepted"
+  },
+  {
+    "region_code": "320000",
+    "gdp": 137008.0,
+    "per_capita": 160694.3,
+    "expected_year_end": 160694.34670419892,
+    "gap": 2.9063996265232817e-07,
+    "status": "accepted"
+  },
+  {
+    "region_code": "330000",
+    "gdp": 90130.6,
+    "per_capita": 135565.0,
+    "expected_year_end": 135128.33583208395,
+    "gap": 0.0032314774338570995,
+    "status": "accepted"
+  },
+  {
+    "region_code": "340000",
+    "gdp": 50625.2,
+    "per_capita": 82694.0,
+    "expected_year_end": 82680.38543197779,
+    "gap": 0.0001646650284838902,
+    "status": "accepted"
+  },
+  {
+    "region_code": "350000",
+    "gdp": 57761.6,
+    "per_capita": 137920.0,
+    "expected_year_end": 137757.21440496066,
+    "gap": 0.0011816847178747203,
+    "status": "accepted"
+  },
+  {
+    "region_code": "360000",
+    "gdp": 34202.5,
+    "per_capita": 75802.0,
+    "expected_year_end": 75971.79031541538,
+    "gap": 0.002234912652583909,
+    "status": "accepted"
+  },
+  {
+    "region_code": "370000",
+    "gdp": 98666.8,
+    "per_capita": 97575.0,
+    "expected_year_end": 97883.73015873016,
+    "gap": 0.0031540497918246535,
+    "status": "accepted"
+  },
+  {
+    "region_code": "410000",
+    "gdp": 63590.0,
+    "per_capita": 64888.0,
+    "expected_year_end": 64987.22534491569,
+    "gap": 0.0015268438433716502,
+    "status": "accepted"
+  },
+  {
+    "region_code": "420000",
+    "gdp": 60013.0,
+    "per_capita": 102822.0,
+    "expected_year_end": 102867.67226602674,
+    "gap": 0.00044399046873178083,
+    "status": "accepted"
+  },
+  {
+    "region_code": "430000",
+    "gdp": 53231.0,
+    "per_capita": 81735.0,
+    "expected_year_end": 81405.41367181527,
+    "gap": 0.004048702823542527,
+    "status": "accepted"
+  },
+  {
+    "region_code": "440000",
+    "gdp": 141633.8,
+    "per_capita": 111146.0,
+    "expected_year_end": 110824.56964006259,
+    "gap": 0.0029003528818687396,
+    "status": "accepted"
+  },
+  {
+    "region_code": "450000",
+    "gdp": 28649.4,
+    "per_capita": 57071.0,
+    "expected_year_end": 57150.20945541593,
+    "gap": 0.00138598714109206,
+    "status": "accepted"
+  },
+  {
+    "region_code": "460000",
+    "gdp": 7935.7,
+    "per_capita": 75903.0,
+    "expected_year_end": 75722.3282442748,
+    "gap": 0.0023859772924885725,
+    "status": "accepted"
+  },
+  {
+    "region_code": "500000",
+    "gdp": 32193.2,
+    "per_capita": 100003.0,
+    "expected_year_end": 100919.12225705328,
+    "gap": 0.009077786613322036,
+    "status": "accepted"
+  },
+  {
+    "region_code": "510000",
+    "gdp": 64697.0,
+    "per_capita": 77333.0,
+    "expected_year_end": 77351.7455762793,
+    "gap": 0.00024234199421924174,
+    "status": "accepted"
+  },
+  {
+    "region_code": "520000",
+    "gdp": 22667.1,
+    "per_capita": 58816.0,
+    "expected_year_end": 58723.05699481865,
+    "gap": 0.0015827344477237215,
+    "status": "accepted"
+  },
+  {
+    "region_code": "530000",
+    "gdp": 31534.1,
+    "per_capita": 67672.0,
+    "expected_year_end": 67742.42749731471,
+    "gap": 0.0010396364570416372,
+    "status": "accepted"
+  },
+  {
+    "region_code": "540000",
+    "gdp": 2764.9,
+    "per_capita": 75237.0,
+    "expected_year_end": 74727.02702702703,
+    "gap": 0.006824478281312274,
+    "status": "accepted"
+  },
+  {
+    "region_code": "610000",
+    "gdp": 35538.8,
+    "per_capita": 89915.0,
+    "expected_year_end": 89903.36453326588,
+    "gap": 0.0001294219275833619,
+    "status": "accepted"
+  },
+  {
+    "region_code": "620000",
+    "gdp": 13002.9,
+    "per_capita": 52925.0,
+    "expected_year_end": 52900.32546786005,
+    "gap": 0.0004664344107851992,
+    "status": "accepted"
+  },
+  {
+    "region_code": "630000",
+    "gdp": 3950.8,
+    "per_capita": 66488.0,
+    "expected_year_end": 66623.9460370995,
+    "gap": 0.0020404981269616096,
+    "status": "accepted"
+  },
+  {
+    "region_code": "640000",
+    "gdp": 5502.8,
+    "per_capita": 75464.0,
+    "expected_year_end": 75484.22496570644,
+    "gap": 0.0002679363233262233,
+    "status": "accepted"
+  },
+  {
+    "region_code": "650000",
+    "gdp": 20534.1,
+    "per_capita": 78660.0,
+    "expected_year_end": 78284.7884102173,
+    "gap": 0.004792905459698904,
+    "status": "accepted"
+  }
+]

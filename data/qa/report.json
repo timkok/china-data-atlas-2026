@@ -1,0 +1,678 @@
+{
+  "ok": true,
+  "failures": [],
+  "warnings": [],
+  "n_observations": 4639,
+  "n_indicators": 13,
+  "anomalies": [
+    {
+      "indicator_id": "urbanization",
+      "region_code": "320000",
+      "year": 2010,
+      "kind": "diff",
+      "change": 4.979999999999997
+    },
+    {
+      "indicator_id": "gdp",
+      "region_code": "110000",
+      "year": 2001,
+      "kind": "yoy",
+      "change": 0.49692588229598655
+    },
+    {
+      "indicator_id": "gdp-per-capita",
+      "region_code": "150000",
+      "year": 2005,
+      "kind": "yoy",
+      "change": 0.4445660035477179
+    },
+    {
+      "indicator_id": "gdp-per-capita",
+      "region_code": "520000",
+      "year": 2008,
+      "kind": "yoy",
+      "change": 0.42516268980477223
+    },
+    {
+      "indicator_id": "he-schools",
+      "region_code": "000000",
+      "year": 2011,
+      "kind": "diff",
+      "change": 125.0
+    },
+    {
+      "indicator_id": "he-schools",
+      "region_code": "000000",
+      "year": 2012,
+      "kind": "diff",
+      "change": 41.0
+    },
+    {
+      "indicator_id": "he-schools",
+      "region_code": "000000",
+      "year": 2013,
+      "kind": "diff",
+      "change": 49.0
+    }
+  ],
+  "additivity": [
+    {
+      "indicator_id": "he-students",
+      "year": 2010,
+      "province_sum": 22317929.0,
+      "national": 22317929.0,
+      "relative_gap": 0.0,
+      "status": "ok"
+    },
+    {
+      "indicator_id": "he-students",
+      "year": 2011,
+      "province_sum": 23085078.0,
+      "national": 23085078.0,
+      "relative_gap": 0.0,
+      "status": "ok"
+    },
+    {
+      "indicator_id": "he-students",
+      "year": 2012,
+      "province_sum": 23913155.0,
+      "national": 23913155.0,
+      "relative_gap": 0.0,
+      "status": "ok"
+    },
+    {
+      "indicator_id": "he-students",
+      "year": 2013,
+      "province_sum": 24680726.0,
+      "national": 24680726.0,
+      "relative_gap": 0.0,
+      "status": "ok"
+    },
+    {
+      "indicator_id": "he-students",
+      "year": 2020,
+      "province_sum": 32852948.0,
+      "national": 32852948.0,
+      "relative_gap": 0.0,
+      "status": "ok"
+    },
+    {
+      "indicator_id": "he-schools",
+      "year": 2010,
+      "province_sum": 2358.0,
+      "national": 2358.0,
+      "relative_gap": 0.0,
+      "status": "ok"
+    },
+    {
+      "indicator_id": "he-schools",
+      "year": 2011,
+      "province_sum": 2483.0,
+      "national": 2483.0,
+      "relative_gap": 0.0,
+      "status": "ok"
+    },
+    {
+      "indicator_id": "he-schools",
+      "year": 2012,
+      "province_sum": 2442.0,
+      "national": 2442.0,
+      "relative_gap": 0.0,
+      "status": "ok"
+    },
+    {
+      "indicator_id": "he-schools",
+      "year": 2013,
+      "province_sum": 2491.0,
+      "national": 2491.0,
+      "relative_gap": 0.0,
+      "status": "ok"
+    },
+    {
+      "indicator_id": "he-schools",
+      "year": 2020,
+      "province_sum": 2738.0,
+      "national": 2738.0,
+      "relative_gap": 0.0,
+      "status": "ok"
+    }
+  ],
+  "missing": [
+    {
+      "indicator_id": "population",
+      "year_min": 2000,
+      "year_max": 2024,
+      "present": 775,
+      "absent_inside_span": 0,
+      "geography": "provincial"
+    },
+    {
+      "indicator_id": "birth-rate",
+      "year_min": 2004,
+      "year_max": 2013,
+      "present": 310,
+      "absent_inside_span": 0,
+      "geography": "provincial"
+    },
+    {
+      "indicator_id": "urbanization",
+      "year_min": 2005,
+      "year_max": 2024,
+      "present": 620,
+      "absent_inside_span": 0,
+      "geography": "provincial"
+    },
+    {
+      "indicator_id": "age-65-share",
+      "year_min": 2004,
+      "year_max": 2020,
+      "present": 310,
+      "absent_inside_span": 217,
+      "geography": "provincial"
+    },
+    {
+      "indicator_id": "gdp",
+      "year_min": 2000,
+      "year_max": 2024,
+      "present": 589,
+      "absent_inside_span": 186,
+      "geography": "provincial"
+    },
+    {
+      "indicator_id": "gdp-per-capita",
+      "year_min": 2004,
+      "year_max": 2024,
+      "present": 372,
+      "absent_inside_span": 279,
+      "geography": "provincial"
+    },
+    {
+      "indicator_id": "gdp-index",
+      "year_min": 2000,
+      "year_max": 2020,
+      "present": 465,
+      "absent_inside_span": 186,
+      "geography": "provincial"
+    },
+    {
+      "indicator_id": "disposable-income",
+      "year_min": 2014,
+      "year_max": 2024,
+      "present": 341,
+      "absent_inside_span": 0,
+      "geography": "provincial"
+    },
+    {
+      "indicator_id": "retail-sales",
+      "year_min": 2008,
+      "year_max": 2024,
+      "present": 310,
+      "absent_inside_span": 217,
+      "geography": "provincial"
+    },
+    {
+      "indicator_id": "he-students",
+      "year_min": 2010,
+      "year_max": 2020,
+      "present": 155,
+      "absent_inside_span": 186,
+      "geography": "provincial"
+    },
+    {
+      "indicator_id": "he-schools",
+      "year_min": 2010,
+      "year_max": 2020,
+      "present": 155,
+      "absent_inside_span": 186,
+      "geography": "provincial"
+    },
+    {
+      "indicator_id": "beds-per-1000",
+      "year_min": 2010,
+      "year_max": 2010,
+      "present": 31,
+      "absent_inside_span": 0,
+      "geography": "provincial"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2005/html/C0310C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2005/html/C0311C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2005/html/D0403C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2005/html/D0409C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2006/html/C0308C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2006/html/C0309C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2006/html/D0403C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2006/html/D0410C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2007/html/C0312C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2007/html/C0313C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2007/html/D0403C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2007/html/D0410C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2008/html/C0214C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2008/html/C0215C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2008/html/D0303C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2008/html/D0310C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2009/html/C0214C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2009/html/D0304C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2009/html/D0310C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2010/html/C0214C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2010/html/D0304C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2010/html/D0310C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2010/html/Q1722C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2010/html/V2133C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2011/html/C0214C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2011/html/D0304C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2011/html/Q1722C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2011/html/U2027C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2011/html/V2107C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2012/html/C0214C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2012/html/D0304C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2012/html/D0305C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2012/html/D0311C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2012/html/Q1722C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2012/html/U2029C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2012/html/V2107C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0214C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0215C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0305C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0307C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0313C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z1712C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z2030C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0205C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0206C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0207C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0211C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0314C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0315C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z1612C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z2130C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z2131C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z2203C.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/0309CH.jpg",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0309.jpg",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C02-02.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C02-05.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C02-06.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C02-16.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C03-01.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C03-09.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C06-18.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C15-12.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C21-14.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C21-15.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C22-03.xls",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C02-05.jpg",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C02-06.jpg",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C03-09.jpg",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C06-18.jpg",
+      "status": 200,
+      "error": ""
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C15-12.jpg",
+      "status": 200,
+      "error": ""
+    }
+  ],
+  "consistency_mismatches": [],
+  "scope_break_flags": [
+    {
+      "indicator_id": "population",
+      "year": 2005,
+      "note": "年鉴脚注写明，2005年起分地区数据为常住人口口径。此前年份仍予列示，但与之后年份不可直接同比。"
+    },
+    {
+      "indicator_id": "population",
+      "year": 2010,
+      "note": "2010年为人口普查基础年份，历史年份曾在普查后修订。"
+    },
+    {
+      "indicator_id": "population",
+      "year": 2020,
+      "note": "2020年为第七次人口普查基础年份，2011–2019年等历史数据在后续年鉴中有修订。"
+    },
+    {
+      "indicator_id": "birth-rate",
+      "year": 2010,
+      "note": "普查年份的出生率与非普查年份的抽样推算不宜直接连成无断点的曲线。"
+    },
+    {
+      "indicator_id": "birth-rate",
+      "year": 2020,
+      "note": "普查年份与年度抽样调查的出生率口径不完全相同。"
+    },
+    {
+      "indicator_id": "age-65-share",
+      "year": 2010,
+      "note": "普查年份与人口变动抽样调查年份的年龄结构不宜视为一条无断点序列。"
+    },
+    {
+      "indicator_id": "age-65-share",
+      "year": 2020,
+      "note": "2020年为普查全口径，邻近年份若为抽样调查则不可直接同比。"
+    },
+    {
+      "indicator_id": "gdp",
+      "year": 2004,
+      "note": "第一次经济普查后GDP历史有过修订。"
+    },
+    {
+      "indicator_id": "gdp",
+      "year": 2008,
+      "note": "第二次经济普查后GDP历史有过修订。"
+    },
+    {
+      "indicator_id": "gdp",
+      "year": 2013,
+      "note": "第三次经济普查后GDP历史有过修订。"
+    },
+    {
+      "indicator_id": "gdp",
+      "year": 2018,
+      "note": "第四次经济普查后GDP历史有过修订。"
+    },
+    {
+      "indicator_id": "gdp",
+      "year": 2023,
+      "note": "第五次经济普查后GDP历史有过修订。不同年鉴版本衔接处若版本不同，同比会被抑制。"
+    },
+    {
+      "indicator_id": "gdp-per-capita",
+      "year": 2018,
+      "note": "经济普查修订会改变历史人均水平。版本切换处不计算同比。"
+    },
+    {
+      "indicator_id": "disposable-income",
+      "year": 2013,
+      "note": "2013年住户调查改革。本序列不包含改革前的城镇或农村分项收入。"
+    },
+    {
+      "indicator_id": "he-students",
+      "year": 2021,
+      "note": "后续年鉴将普通与职业本专科合并发布。2021年及以后的合并数未入库。"
+    },
+    {
+      "indicator_id": "he-schools",
+      "year": 2021,
+      "note": "后续年鉴将普通与职业高等学校合并发布，合并数未入库。"
+    }
+  ]
+}
